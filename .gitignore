@@ -1,0 +1,5 @@
+# ssh-key files
+authorized_keys
+
+# software files
+*.tar.gz

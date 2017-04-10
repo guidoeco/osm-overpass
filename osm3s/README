@@ -1,0 +1,52 @@
+Create an OSM Overpass docker image using the compiled .tar.gz file from the osm3s-build server
+0) Create a dockernet network:
+$ docker network create --subnet 172.18.1.0/24 --gateway 172.18.1.254 dockernet
+Then add a static host entry in /etc/hosts file or DNS entry for the osm3s-server:
+172.18.1.4	osm3s-server 
+
+1) Run the build script to create the OSM Overpass server image osm3s-server
+$ ./build.sh
+
+2) Create/modify filestore location
+By default the filestore location is $HOME/data/osm3s
+To change this update the location in the update.sh script
+
+3) Create the osm3s-server
+$ sh ./update.sh
+
+4) Initialise the OSM repository
+4.1) Download OpenStreetMap data to the $HOME/data/osm3s/archive folder
+Details of where Openstreet map data is available can be found on the OpenStreetMap website http://wiki.openstreetmap.org/wiki/Planet.osm#Planet.osm_mirrors
+To download the North Yorkshire data for testing I would run:
+$ cd $HOME/data/osm3s/archive
+$ wget http://download.geofabrik.de/europe/great-britain/england/north-yorkshire-latest.osm.bz2
+Return to the git directory to complete the run and data import
+
+4.2) Start the OSM Overpass docker image, login as root and stop the OSM dispatcher: 
+$ sh ./start.sh
+$ sh ./root.sh
+# /etc/init.d/overpass stop
+
+4.3) Change to the osm user and initialise the database:
+# su - osm
+$ sh ./init-db.sh
+4.4) As root, restart the OSM Overpass dispatcher: 
+$ exit
+# /etc/init.d/overpass start
+
+4.5) As the osm user run the local test-script:
+# su - osm
+$ sh ./query.sh
+This should output details of pubs in North Yorkshire
+
+4.6) Logout of the docker image
+
+5) The server is now ready to run queries
+$ cd test
+$ sh ./tesh.sh
+This should provide a simple example of using the network api to the OSM Overpass server.
+
+Troubleshooting:
+The docker network configuration is based on setting up docker Class B local network called 'dockernet' with the command. This is only supported on later versions of docker
+
+

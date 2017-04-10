@@ -1,0 +1,2 @@
+Copy the public key for your local user to the 'authorized_keys' file here to enable the OSM Overpass osm3s-var.tar.gz build archive to be copied from the build to the server container
+$ cp ~/.ssh/id_dsa.pub authorized_keys

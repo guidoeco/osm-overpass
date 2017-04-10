@@ -1,0 +1,3 @@
+<query type="node">
+<has-kv k="amenity" v="pub"/>
+</query><print/>

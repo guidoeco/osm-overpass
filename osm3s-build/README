@@ -1,0 +1,23 @@
+This builds from source a OpenStreetMap Overpass server from source code in a docker image to then be copied via scp to a new docker osm3s-server image. The steps to complete this are:
+0) Create a dockernet network:
+$ docker network create --subnet 172.18.1.0/24 --gateway 172.18.1.254 dockernet
+Then add a static host entry in /etc/hosts file or DNS entry for the osm3s-server:
+172.18.1.4      osm3s-server
+
+1) Download the latest version of the Overpass API http://wiki.openstreetmap.org/wiki/Overpass_API/versions to the local directory
+The latest version was 0.7.54 for this build was from here
+http://dev.overpass-api.de/releases/osm-3s_v0.7.54.tar.gz
+
+1) Run the build script:
+$ ./build.sh
+
+Auxillary scripts to stop and start the image and container once it is created, and when running gain root access are also provided
+
+Troubleshooting:
+The docker network configuration is based on setting up docker Class B local network called 'dockernet' with the command
+$ docker network create --subnet 172.18.1.0/24 --gateway 172.18.1.254 dockernet
+Then adding a static host entry in /etc/hosts file
+
+172.18.1.4      osm3s-server
+
+The OSM build and server containers are given the same IP address as they should not be run simulataneously

@@ -1,0 +1,4752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base=""/>
+
+  <node id="23202277" lat="54.3292856" lon="-2.3126617">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Moorcock Inn"/>
+  </node>
+  <node id="27180417" lat="53.9601046" lon="-1.0755972">
+    <tag k="addr:postcode" v="YO1 7PR"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Black Swan"/>
+    <tag k="real_ale" v="Copper Dragon Golden Pippin, Deuchars IPA, Greene King Abbot"/>
+  </node>
+  <node id="27237812" lat="53.9637558" lon="-1.0768418">
+    <tag k="addr:postcode" v="YO31 7PB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="name" v="Black Horse"/>
+    <tag k="note" v="Has Black Sheep signage; not sure if it's their pub."/>
+    <tag k="old_name" v="Tap and Spile"/>
+    <tag k="parking" v="yes"/>
+  </node>
+  <node id="27237813" lat="53.9645521" lon="-1.0745050">
+    <tag k="addr:postcode" v="YO31 7PF"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brigadier Gerard"/>
+  </node>
+  <node id="27238041" lat="53.9606527" lon="-1.0836986">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Punch Bowl"/>
+    <tag k="operator" v="Nicholson's"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="27238042" lat="53.9606097" lon="-1.0803767">
+    <tag k="addr:postcode" v="YO1 7LF"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old White Swan"/>
+  </node>
+  <node id="27238043" lat="53.9618554" lon="-1.0798631">
+    <tag k="addr:postcode" v="YO1 7LF"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cross Keys"/>
+  </node>
+  <node id="27238044" lat="53.9614891" lon="-1.0797154">
+    <tag k="addr:postcode" v="YO1 7LS"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Snickleway Inn"/>
+  </node>
+  <node id="27238045" lat="53.9622163" lon="-1.0791513">
+    <tag k="addr:postcode" v="YO1 7LG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Slipper"/>
+  </node>
+  <node id="27338381" lat="53.9024793" lon="-1.6290348">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Half Moon Inn"/>
+  </node>
+  <node id="27352161" lat="54.1994244" lon="-2.1145300">
+    <tag k="amenity" v="pub"/>
+    <tag k="description" v="accommodation, food, cask ale, patio garden, free house"/>
+    <tag k="is_in" v="Hubberholme"/>
+    <tag k="name" v="The George Inn"/>
+    <tag k="note" v="car park at rear"/>
+    <tag k="tourism" v="bed_and_breakfast"/>
+  </node>
+  <node id="27352679" lat="54.2084849" lon="-2.0905025">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Lion"/>
+  </node>
+  <node id="27364213" lat="54.1066383" lon="-2.0402215">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tennant Arms Hotel &amp; Restaurant"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="27369100" lat="53.9743716" lon="-1.8944382">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Devonshire Arms"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="27393853" lat="53.9541473" lon="-1.0750908">
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="YO1 9PT"/>
+    <tag k="addr:street" v="George Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="camra" v="yes"/>
+    <tag k="food" v="no"/>
+    <tag k="name" v="The Phoenix"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="27393889" lat="53.9571381" lon="-1.0830899">
+    <tag k="addr:postcode" v="YO1 9SN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Kings Arms"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="27393891" lat="53.9566552" lon="-1.0826890">
+    <tag k="addr:postcode" v="YO1 9SW"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Lowther"/>
+  </node>
+  <node id="27393903" lat="53.9567263" lon="-1.0824530">
+    <tag k="addr:postcode" v="YO1 9SW"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Plonkers"/>
+  </node>
+  <node id="27393945" lat="53.9599511" lon="-1.0797168">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="YO1 8BN"/>
+    <tag k="addr:street" v="Colliergate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="York Brewery"/>
+    <tag k="name" v="The Last Drop Inn"/>
+    <tag k="operator" v="York Brewery"/>
+  </node>
+  <node id="27393951" lat="53.9586628" lon="-1.0796855">
+    <tag k="addr:postcode" v="YO1 9UP"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Fleece"/>
+  </node>
+  <node id="27402368" lat="53.9555764" lon="-1.0909872">
+    <tag k="addr:postcode" v="YO24 1AU"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Punch Bowl"/>
+    <tag k="operator" v="J D Wetherspoon"/>
+    <tag k="real_ale" v="Usual Wetherspoon's variety"/>
+  </node>
+  <node id="27411659" lat="53.9177630" lon="-1.7554550">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Generous Pioneer"/>
+  </node>
+  <node id="27422602" lat="53.9573479" lon="-1.0821002">
+    <tag k="addr:postcode" v="YO1 9SP"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stone Roses Bar"/>
+    <tag k="operator" v="Thwaites"/>
+  </node>
+  <node id="27422684" lat="53.9592771" lon="-1.0880158">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Maltings"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="27422709" lat="53.9606464" lon="-1.0839748">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Yorkshire Terrier"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="27422733" lat="53.9600835" lon="-1.0814800">
+    <tag k="addr:postcode" v="YO1 8AZ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Vudu Lounge"/>
+  </node>
+  <node id="27422745" lat="53.9622590" lon="-1.0840632">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="York Arms"/>
+  </node>
+  <node id="27422747" lat="53.9622191" lon="-1.0843006">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Legged Mare"/>
+    <tag k="real_ale" v="York England's Inevitable Defeat, York Wonky Donkey, York Yorkshire Terrier, York Guzzler, York Constantine, Castle Rock Screech Owl, Castle Rock Harvest Pale (varies)"/>
+  </node>
+  <node id="27422749" lat="53.9624357" lon="-1.0847018">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="YO1 7EN"/>
+    <tag k="addr:street" v="High Petergate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Eagle &amp; Child"/>
+    <tag k="operator" v="Leeds Brewery"/>
+  </node>
+  <node id="27422751" lat="53.9625609" lon="-1.0846506">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Hole In The Wall"/>
+    <tag k="real_ale" v="3 from Marston's, 2 from Rudgate"/>
+  </node>
+  <node id="27475445" lat="53.9307206" lon="-1.4517250">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Scotts Arms"/>
+  </node>
+  <node id="27497659" lat="53.9581764" lon="-1.0856708">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Whippet Inn"/>
+    <tag k="smoking" v="isolated"/>
+  </node>
+  <node id="27497661" lat="53.9588155" lon="-1.0867303">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Flares"/>
+  </node>
+  <node id="27497662" lat="53.9585599" lon="-1.0868115">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Corner Pin"/>
+  </node>
+  <node id="27497676" lat="53.9566837" lon="-1.0871262">
+    <tag k="addr:postcode" v="YO1 6LN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ackhorne"/>
+  </node>
+  <node id="27497679" lat="53.9563882" lon="-1.0900058">
+    <tag k="addr:postcode" v="YO1 6LB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Priory"/>
+  </node>
+  <node id="27497680" lat="53.9560506" lon="-1.0905166">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:postcode" v="YO1 6LB"/>
+    <tag k="addr:street" v="Micklegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Micklegate 127"/>
+  </node>
+  <node id="27497682" lat="53.9568164" lon="-1.0896627">
+    <tag k="addr:postcode" v="YO1 6JX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sociale"/>
+  </node>
+  <node id="27497684" lat="53.9569008" lon="-1.0894894">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="YO1 6JX"/>
+    <tag k="addr:street" v="Micklegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Falcon Tap"/>
+  </node>
+  <node id="27497686" lat="53.9572658" lon="-1.0876195">
+    <tag k="addr:postcode" v="YO1 6LJ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Artful Dodger"/>
+  </node>
+  <node id="27497689" lat="53.9573806" lon="-1.0854086">
+    <tag k="addr:postcode" v="YO1 6JG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Parish"/>
+    <tag k="smoking" v="outside"/>
+  </node>
+  <node id="27497691" lat="53.9548631" lon="-1.0850112">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="YO1 6DU"/>
+    <tag k="addr:street" v="Cromwell Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Ball"/>
+    <tag k="website" v="http://www.goldenballyork.co.uk/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="27497692" lat="53.9563383" lon="-1.0737834">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="YO1 9TL"/>
+    <tag k="addr:street" v="Walmgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Spread Eagle"/>
+    <tag k="operator" v="Marston's"/>
+  </node>
+  <node id="27497693" lat="53.9571354" lon="-1.0769754">
+    <tag k="addr:postcode" v="YO1 9TX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Walmgate Ale House"/>
+    <tag k="old_name" v="Melton's Too"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="27497694" lat="53.9573256" lon="-1.0769800">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="YO1 9TJ"/>
+    <tag k="addr:street" v="Walmgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Watergate Inn"/>
+  </node>
+  <node id="27497695" lat="53.9571962" lon="-1.0777760">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="YO1 9TU"/>
+    <tag k="addr:street" v="Merchantgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Red Lion"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="27497696" lat="53.9586988" lon="-1.0791140">
+    <tag k="addr:postcode" v="YO1 9TF"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="Pies and cakes (at least)"/>
+    <tag k="name" v="The Blue Bell"/>
+    <tag k="real_ale" v="4 or so beers"/>
+  </node>
+  <node id="27497697" lat="53.9591549" lon="-1.0781039">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housename" v="Stonebow House"/>
+    <tag k="addr:housenumber" v="8-10"/>
+    <tag k="addr:postcode" v="YO1 7NP"/>
+    <tag k="addr:street" v="The Stonebow"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Nevermind"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-04:00"/>
+  </node>
+  <node id="27535523" lat="53.9721986" lon="-1.7272524">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Timble Inn"/>
+    <tag k="website" v="www.thetimbleinn.com"/>
+  </node>
+  <node id="27537137" lat="53.9240929" lon="-1.6968224">
+    <tag k="addr:postcode" v="LS21 2EY"/>
+    <tag k="addr:street" v="Roebuck Terrace"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="description" v="Formerly and formally The Roebuck, the local nickname &quot;The Spite&quot; has stuck and now appears on the signage."/>
+    <tag k="name" v="The Spite (Roebuck)"/>
+  </node>
+  <node id="27760772" lat="54.5687861" lon="-1.2380238">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Camels Hump"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="27760775" lat="54.5708883" lon="-1.2364037">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Dickens Inn"/>
+  </node>
+  <node id="27760778" lat="54.5707390" lon="-1.2341614">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Southfield"/>
+    <tag k="old_name" v="Flea and Firkin"/>
+  </node>
+  <node id="28323515" lat="53.9803503" lon="-1.9877124">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Elm Tree Inn"/>
+    <tag k="postal_code" v="BD23 6RB"/>
+  </node>
+  <node id="28340009" lat="53.9612840" lon="-2.0189385">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:postcode" v="BD23 1LB"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Shepherd"/>
+    <tag k="phone" v="01756 793178"/>
+  </node>
+  <node id="28345934" lat="53.9603010" lon="-2.0155567">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="BD23 2HR"/>
+    <tag k="addr:street" v="Newmarket Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Devonshire"/>
+    <tag k="phone" v="01756 692590"/>
+  </node>
+  <node id="28345948" lat="53.9605360" lon="-2.0175331">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="BD23 1HY"/>
+    <tag k="addr:street" v="Sheep Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="Timothy Taylor's"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Wooly Sheep Inn"/>
+    <tag k="phone" v="01756 700966"/>
+  </node>
+  <node id="28345954" lat="53.9590183" lon="-2.0181190">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="BD23 2NS"/>
+    <tag k="addr:street" v="Keighley Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fleece Inn"/>
+    <tag k="phone" v="01756 792898"/>
+  </node>
+  <node id="28346006" lat="53.9580412" lon="-2.0207307">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:postcode" v="BD23 2AP"/>
+    <tag k="addr:street" v="Craven Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Craven Hotel"/>
+    <tag k="phone" v="01756 792595"/>
+  </node>
+  <node id="28346007" lat="53.9594378" lon="-2.0207119">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="3a"/>
+    <tag k="addr:postcode" v="BD23 2AB"/>
+    <tag k="addr:street" v="Cavendish Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Venue Sports And Music Bar"/>
+    <tag k="phone" v="01756 790196"/>
+    <tag k="website" v="www.venueskipton.com"/>
+  </node>
+  <node id="28346008" lat="53.9582968" lon="-2.0208573">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="BD23 2AJ"/>
+    <tag k="addr:street" v="Carleton Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Railway"/>
+    <tag k="phone" v="01756 793186"/>
+  </node>
+  <node id="28346024" lat="53.9626547" lon="-2.0166195">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Horse"/>
+  </node>
+  <node id="28372138" lat="53.9634250" lon="-2.0178917">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+  </node>
+  <node id="28372148" lat="53.9620051" lon="-2.0162458">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="BD23 1DT"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Red Lion"/>
+    <tag k="phone" v="01756 790718"/>
+  </node>
+  <node id="28871772" lat="53.9763516" lon="-1.9914491">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cavendish Arms"/>
+    <tag k="postal_code" v="BD23 6QT"/>
+  </node>
+  <node id="28871774" lat="53.9767459" lon="-2.0273148">
+    <tag k="amenity" v="pub"/>
+    <tag k="is_in" v="Craven, North Yorkshire, Yorkshire, England, UK"/>
+    <tag k="name" v="Craven Heifer"/>
+    <tag k="note" v="location/existance uncertain"/>
+  </node>
+  <node id="29077297" lat="54.1637756" lon="-1.8604924">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crown Hotel"/>
+  </node>
+  <node id="29081982" lat="54.0235495" lon="-1.6066286">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Horse"/>
+    <tag k="old_name" v="Joiners' Arms"/>
+    <tag k="source:old_name" v="OS 1:25k"/>
+  </node>
+  <node id="29105061" lat="53.9003274" lon="-1.2004495">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wild Man Inn"/>
+  </node>
+  <node id="29533303" lat="54.1939023" lon="-2.3953630">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Hill Inn"/>
+    <tag k="note" v="Black Sheep pub"/>
+    <tag k="postal_code" v="LA6 3AR"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="29567912" lat="53.8760560" lon="-1.1568153">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shoulder of Mutton Inn"/>
+  </node>
+  <node id="29580692" lat="53.8324902" lon="-1.1308455">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jolly Sailor"/>
+    <tag k="operator" v="Thwaites"/>
+  </node>
+  <node id="29581116" lat="53.8540516" lon="-1.2130237">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ulleskelf Arms"/>
+  </node>
+  <node id="29797011" lat="54.5091455" lon="-1.1200727">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Kings Head"/>
+    <tag k="note" v="accomodation &amp; food"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="31941593" lat="54.1325040" lon="-1.5211770">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="32443019" lat="53.9566476" lon="-1.0899979">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="YO1 6JX"/>
+    <tag k="addr:street" v="Micklegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brigantes"/>
+    <tag k="operator" v="Market Town Taverns"/>
+  </node>
+  <node id="32548370" lat="54.5486969" lon="-1.3882042">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="33195832" lat="54.0680427" lon="-2.0179793">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Old Hall Inn"/>
+  </node>
+  <node id="33206000" lat="54.0646094" lon="-1.9627921">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Clarendon"/>
+  </node>
+  <node id="33236866" lat="54.0466830" lon="-1.9520399">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Red Lion Hotel"/>
+  </node>
+  <node id="33241748" lat="54.0366845" lon="-2.0353679">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Devonshire Arms"/>
+  </node>
+  <node id="33247358" lat="54.0722472" lon="-1.9971617">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Black Horse Hotel"/>
+  </node>
+  <node id="33248250" lat="54.0727421" lon="-1.9971623">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Foresters Arms"/>
+  </node>
+  <node id="33248747" lat="54.0723544" lon="-1.9977187">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Devonshire Hotel"/>
+  </node>
+  <node id="33390274" lat="54.0376343" lon="-1.9246272">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Craven Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="33390275" lat="54.0370301" lon="-1.9217389">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="New Inn"/>
+  </node>
+  <node id="33536897" lat="54.1121339" lon="-2.3569743">
+    <tag k="addr:city" v="Austwick"/>
+    <tag k="addr:postcode" v="LA2 8BB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Game Cock"/>
+    <tag k="phone" v="015242 51226"/>
+    <tag k="postal_code" v="LA2 8BB"/>
+    <tag k="website" v="www.gamecockinn.co.uk"/>
+  </node>
+  <node id="33781484" lat="54.5728909" lon="-1.2380560">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+  </node>
+  <node id="34053332" lat="54.5766165" lon="-1.2409625">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Princess Alice"/>
+  </node>
+  <node id="34138739" lat="54.5760485" lon="-1.2348532">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Basement"/>
+  </node>
+  <node id="34138741" lat="54.5762081" lon="-1.2348222">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Walkabout"/>
+  </node>
+  <node id="34401587" lat="54.5759129" lon="-1.2285948">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Doctor Brown's"/>
+  </node>
+  <node id="34401590" lat="54.5763112" lon="-1.2336647">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Central"/>
+  </node>
+  <node id="59735665" lat="54.1060383" lon="-1.7786803">
+    <tag k="addr:postcode" v="HG3 5PP"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="is_in" v="Wath"/>
+    <tag k="name" v="The Sportsman Arms"/>
+    <tag k="official_name" v="The Sportsman’s Arm's Hotel and Restaurant"/>
+    <tag k="website" v="www.sportsmans-arms.co.uk"/>
+  </node>
+  <node id="63798510" lat="53.8339906" lon="-1.1294970">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.4a"/>
+    <tag k="name" v="The Ferry Inn"/>
+  </node>
+  <node id="81301485" lat="53.9912542" lon="-0.9153444">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Swordsman Inn"/>
+  </node>
+  <node id="100573221" lat="53.9920828" lon="-0.9210368">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Cups"/>
+  </node>
+  <node id="106256305" lat="54.3689720" lon="-0.5071829">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="name" v="Falcon Inn"/>
+  </node>
+  <node id="116131535" lat="54.1550965" lon="-0.2691418">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Dotterel"/>
+  </node>
+  <node id="128768491" lat="53.8964389" lon="-0.9640697">
+    <tag k="addr:postcode" v="YO19 6AA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wenlock Arms"/>
+  </node>
+  <node id="149227496" lat="54.2478490" lon="-0.4878368">
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="Smiths"/>
+    <tag k="name" v="Denison Arms"/>
+  </node>
+  <node id="173984381" lat="54.5190214" lon="-1.3160462">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.5d"/>
+    <tag k="name" v="Myton House"/>
+  </node>
+  <node id="192010206" lat="54.2117246" lon="-0.2896658">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Station"/>
+  </node>
+  <node id="224135195" lat="54.2040578" lon="-0.6329500">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Providence"/>
+  </node>
+  <node id="224135576" lat="54.2354433" lon="-0.6568434">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cayley Arms"/>
+  </node>
+  <node id="224241424" lat="54.2365011" lon="-0.7176956">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Hall"/>
+  </node>
+  <node id="224241516" lat="54.2362309" lon="-0.7221708">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="New Inn"/>
+  </node>
+  <node id="224241619" lat="54.2363923" lon="-0.7217595">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Buck Hotel"/>
+  </node>
+  <node id="224241831" lat="54.2435559" lon="-0.7745149">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="224378791" lat="54.2901616" lon="-0.8414411">
+    <tag k="addr:postcode" v="YO18 8HH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Inn"/>
+    <tag k="website" v="http://www.newinncropton.co.uk"/>
+  </node>
+  <node id="224473117" lat="54.1792384" lon="-0.5720380">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Snooty Fox"/>
+  </node>
+  <node id="245474742" lat="54.0014371" lon="-1.6675466">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="is_in" v="Kettlesing Head; Felliscliffe"/>
+    <tag k="name" v="The Black Bull"/>
+    <tag k="postal_code" v="HG3 2LP"/>
+  </node>
+  <node id="245474751" lat="54.0087818" lon="-1.5954963">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Nelson Inn"/>
+  </node>
+  <node id="245474757" lat="53.9882656" lon="-1.5059586">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Woodlands"/>
+  </node>
+  <node id="246525349" lat="53.9603837" lon="-1.0857785">
+    <tag k="addr:postcode" v="YO1 8AA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Graduate"/>
+    <tag k="vegan" v="friendly"/>
+  </node>
+  <node id="246525350" lat="53.9605982" lon="-1.0853929">
+    <tag k="addr:postcode" v="YO1 8AQ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Judges Lodging"/>
+  </node>
+  <node id="246525501" lat="53.9599550" lon="-1.0851250">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:postcode" v="YO1 8AA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="Lendal Cellars"/>
+    <tag k="takeaway" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="246803643" lat="53.9610403" lon="-2.0189850">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Narrow Boat"/>
+  </node>
+  <node id="247289772" lat="53.9525140" lon="-1.0723344">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="YO10 5AR"/>
+    <tag k="addr:street" v="Heslington Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Victoria Hotel"/>
+    <tag k="operator" v="Old Mill Brewery"/>
+  </node>
+  <node id="248190747" lat="54.5338520" lon="-1.0087296">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Fox and Hounds"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="248191988" lat="54.5307300" lon="-1.0806651">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Voyager"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="248809312" lat="54.2703503" lon="-0.9326016">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kings Head Hotel"/>
+  </node>
+  <node id="248811440" lat="54.4356504" lon="-0.7663863">
+    <tag k="addr:city" v="Egton Bridge"/>
+    <tag k="addr:postcode" v="YO21 1XE"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="garden" v="yes"/>
+    <tag k="name" v="The Horseshoe Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="249538536" lat="54.3112076" lon="-1.8301736">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="King's Head"/>
+  </node>
+  <node id="249538555" lat="54.3097756" lon="-1.8311182">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bolton Arms"/>
+  </node>
+  <node id="249538561" lat="54.3099467" lon="-1.8293383">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="249538565" lat="54.3098415" lon="-1.8289177">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="249585249" lat="54.3029099" lon="-1.7225265">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="name" v="Queen's Head"/>
+  </node>
+  <node id="249610084" lat="54.3095074" lon="-1.8277081">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.7b"/>
+    <tag k="name" v="Sandpiper"/>
+  </node>
+  <node id="251001446" lat="54.1330312" lon="-1.2482242">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Old Black Bull"/>
+  </node>
+  <node id="251760145" lat="54.2789164" lon="-1.7799110">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coverbridge Inn"/>
+  </node>
+  <node id="251760451" lat="54.2700787" lon="-1.7782900">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.8"/>
+    <tag k="name" v="Blue Lion"/>
+  </node>
+  <node id="256568324" lat="53.9547131" lon="-1.0731878">
+    <tag k="addr:postcode" v="YO10 4UR"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brown Cow"/>
+    <tag k="operator" v="Samuel Smiths"/>
+  </node>
+  <node id="257894094" lat="53.9668875" lon="-1.0120138">
+    <tag k="addr:postcode" v="YO19 5UQ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse"/>
+  </node>
+  <node id="257894096" lat="53.9599997" lon="-1.0366897">
+    <tag k="addr:postcode" v="YO10 3NP"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Derwent Arms"/>
+  </node>
+  <node id="258056002" lat="53.9668740" lon="-1.0612037">
+    <tag k="addr:postcode" v="YO31 0AD"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Nag's Head"/>
+    <tag k="parking" v="yes"/>
+  </node>
+  <node id="258768834" lat="54.3048414" lon="-1.8054645">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.8a"/>
+    <tag k="name" v="Pheasant Inn"/>
+  </node>
+  <node id="259030151" lat="53.9550236" lon="-1.0695636">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:postcode" v="YO10 3BP"/>
+    <tag k="addr:street" v="Lawrence Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Rose and Crown"/>
+    <tag k="postal_code" v="YO10 3BP"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="259037323" lat="53.9539480" lon="-1.0557274">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:postcode" v="YO10 3JP"/>
+    <tag k="addr:street" v="Hull Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Beeswing"/>
+  </node>
+  <node id="260297729" lat="54.3814871" lon="-1.9295549">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bridge Inn"/>
+  </node>
+  <node id="260386817" lat="54.2486616" lon="-0.4869626">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Forge Valley Inn"/>
+  </node>
+  <node id="262644546" lat="53.9833233" lon="-1.1174443">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mitre"/>
+  </node>
+  <node id="262803889" lat="53.9763607" lon="-1.1097371">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Dormouse"/>
+  </node>
+  <node id="262807813" lat="53.9888887" lon="-1.1122799">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lysander Arms"/>
+  </node>
+  <node id="264098392" lat="53.9531501" lon="-1.0756016">
+    <tag k="addr:postcode" v="YO10 4AH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Woolpack Inn"/>
+  </node>
+  <node id="264098395" lat="53.9530203" lon="-1.0759234">
+    <tag k="addr:postcode" v="YO10 4AE"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Edinburgh Arms"/>
+  </node>
+  <node id="264109881" lat="53.9501495" lon="-1.0755025">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:postcode" v="YO10 4BE"/>
+    <tag k="addr:street" v="Fulford Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Lighthorseman"/>
+  </node>
+  <node id="264178506" lat="54.0727664" lon="-0.7923269">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Bay Horse"/>
+    <tag k="source:food" v="smell"/>
+  </node>
+  <node id="269717718" lat="53.9744836" lon="-0.9265117">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Gold Cup Inn"/>
+  </node>
+  <node id="269784991" lat="54.1970508" lon="-0.4449463">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Hare &amp; Hounds"/>
+  </node>
+  <node id="273482349" lat="54.0830789" lon="-0.8719635">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Stone Trough Inn"/>
+  </node>
+  <node id="273482352" lat="54.0783371" lon="-0.8499005">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Blacksmiths Inn"/>
+  </node>
+  <node id="273483311" lat="54.5326710" lon="-1.2407912">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blue Bell"/>
+  </node>
+  <node id="273498886" lat="54.1361155" lon="-0.8003652">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Spotted Cow"/>
+  </node>
+  <node id="274068139" lat="54.0574598" lon="-0.8026642">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jolly Farmer"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="274306822" lat="54.5634251" lon="-0.9731120">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Hollybush"/>
+  </node>
+  <node id="274883315" lat="54.0450230" lon="-0.8078062">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Half Moon Inn"/>
+  </node>
+  <node id="275162748" lat="54.1351555" lon="-0.7951861">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="275209039" lat="54.1346439" lon="-0.7972269">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="The Gate"/>
+  </node>
+  <node id="275857118" lat="53.8769042" lon="-1.2709680">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Stutton Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jackdaw"/>
+  </node>
+  <node id="280174085" lat="54.1370463" lon="-0.7985328">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Blue Ball"/>
+  </node>
+  <node id="280174214" lat="54.1365519" lon="-0.7978196">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="The Jockey"/>
+  </node>
+  <node id="280225733" lat="54.1352277" lon="-0.7985225">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak"/>
+  </node>
+  <node id="280225734" lat="54.1344107" lon="-0.7979444">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="George Hotel"/>
+  </node>
+  <node id="280736266" lat="54.1346696" lon="-1.8183979">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="xybot"/>
+    <tag k="is_in" v="Ramsgill"/>
+    <tag k="name" v="Yorke Arms"/>
+    <tag k="postal_code" v="HG3 5RL"/>
+    <tag k="website" v="www.yorke-arms.co.uk"/>
+  </node>
+  <node id="280741530" lat="54.0188893" lon="-1.0811077">
+    <tag k="addr:postcode" v="YO32 2JH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Cottage Inn"/>
+    <tag k="outside_seating" v="yes"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="Black Sheep Bitter, Taylor LAndlord"/>
+  </node>
+  <node id="280751121" lat="54.0194477" lon="-1.0861358">
+    <tag k="addr:postcode" v="YO32 2PJ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Black Horse"/>
+    <tag k="real_ale" v="Black Sheep Bitter, Taylor Boltmaker + 1"/>
+  </node>
+  <node id="280835257" lat="54.4303790" lon="-0.5321490">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Hotel"/>
+  </node>
+  <node id="280844586" lat="54.4306215" lon="-0.5326149">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ye Dolphin"/>
+  </node>
+  <node id="281076761" lat="54.1321481" lon="-0.7887104">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Derwent Arms"/>
+  </node>
+  <node id="281076870" lat="54.1321245" lon="-0.7875973">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.10"/>
+    <tag k="name" v="Railway Tavern"/>
+  </node>
+  <node id="281596855" lat="54.1346661" lon="-0.7965103">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Globe"/>
+  </node>
+  <node id="283019926" lat="53.9544348" lon="-1.0888224">
+    <tag k="addr:postcode" v="YO23 1AB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Trafalgar Bay"/>
+  </node>
+  <node id="283443922" lat="53.9538979" lon="-1.0873636">
+    <tag k="addr:postcode" v="YO23 1AB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Victoria Vaults"/>
+  </node>
+  <node id="283443929" lat="53.9527197" lon="-1.0854214">
+    <tag k="addr:postcode" v="YO23 1EQ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old Ebor"/>
+  </node>
+  <node id="283443987" lat="53.9541584" lon="-1.0931851">
+    <tag k="addr:postcode" v="YO24 1AZ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="283605926" lat="53.9560044" lon="-1.0842147">
+    <tag k="addr:postcode" v="YO1 6DS"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cock &amp; Bottle"/>
+  </node>
+  <node id="285480481" lat="53.9542800" lon="-1.0883950">
+    <tag k="addr:postcode" v="YO23 1AB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Guppy's Enterprise Club"/>
+    <tag k="website" v="http://www.guppysenterpriseclub.co.uk/"/>
+  </node>
+  <node id="286269336" lat="54.1458582" lon="-0.7779961">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wentworth Arms"/>
+  </node>
+  <node id="286269372" lat="54.1439729" lon="-0.7789860">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="287605299" lat="53.9526289" lon="-1.0838986">
+    <tag k="addr:postcode" v="YO23 1JH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Swan"/>
+    <tag k="website" v="http://www.theswanyork.co.uk"/>
+  </node>
+  <node id="288922047" lat="54.0259428" lon="-2.0600524">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Angel Inn"/>
+  </node>
+  <node id="292689417" lat="54.5464348" lon="-1.2593762">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coronation"/>
+  </node>
+  <node id="293693940" lat="54.1274438" lon="-0.9754728">
+    <tag k="amenity" v="pub"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="The Bay Horse"/>
+    <tag k="name:brewery" v="Storyteller Brewery"/>
+  </node>
+  <node id="293721890" lat="54.5950599" lon="-1.0503573">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wheatlands Farm"/>
+  </node>
+  <node id="293923765" lat="54.5925492" lon="-1.0284149">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mermaid"/>
+  </node>
+  <node id="293975133" lat="54.5832027" lon="-1.0368425">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="New Marske Sports Club"/>
+  </node>
+  <node id="295845177" lat="54.1319485" lon="-0.7813401">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Hyde Park"/>
+  </node>
+  <node id="295871844" lat="54.5596226" lon="-1.2414133">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Erimus Club"/>
+  </node>
+  <node id="296066936" lat="54.1323613" lon="-0.7849558">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Union"/>
+  </node>
+  <node id="302025367" lat="54.5765812" lon="-1.2383696">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Oak"/>
+  </node>
+  <node id="302437237" lat="54.5786387" lon="-1.2356274">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Warehouse"/>
+  </node>
+  <node id="302437241" lat="54.5785996" lon="-1.2359813">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Last Orders"/>
+  </node>
+  <node id="302437242" lat="54.5784657" lon="-1.2343407">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Spensleys Emporium"/>
+  </node>
+  <node id="303910706" lat="53.7858244" lon="-1.0783490">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Gipsy Moth (closed)"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="308945154" lat="53.7636757" lon="-0.9273191">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Loftsome Bridge Coaching House"/>
+  </node>
+  <node id="313181338" lat="53.9024251" lon="-1.0907541">
+    <tag k="addr:postcode" v="YO19 4PN"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="local"/>
+    <tag k="email" v="Barman@blacksmithsarmsnaburn.co.uk"/>
+    <tag k="name" v="The Blacksmiths Arms"/>
+    <tag k="phone" v="01904-623464"/>
+    <tag k="website" v="http://blacksmithsarmsnaburn.co.uk/"/>
+  </node>
+  <node id="318587698" lat="53.8245333" lon="-1.2966022">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crooked Billet"/>
+  </node>
+  <node id="319165694" lat="54.2033564" lon="-1.0464668">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Malt Shovel Inn"/>
+  </node>
+  <node id="319718294" lat="54.2640516" lon="-0.8258375">
+    <tag k="addr:postcode" v="YO18 8PJ"/>
+    <tag k="addr:street" v="Wrelton Cliff Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buck Inn"/>
+    <tag k="website" v="http://www.buckinn-wrelton.com/"/>
+  </node>
+  <node id="319718445" lat="54.2381847" lon="-0.8783362">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Appletree"/>
+  </node>
+  <node id="319718476" lat="54.2604470" lon="-0.8587672">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Fox &amp; Hounds"/>
+  </node>
+  <node id="320120613" lat="53.9155489" lon="-1.1754528">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Buckles Inn"/>
+  </node>
+  <node id="320120614" lat="53.9376456" lon="-1.1347558">
+    <tag k="addr:postcode" v="YO24 3XN"/>
+    <tag k="addr:street" v="Acomb Wood Drive"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Quaker Wood"/>
+  </node>
+  <node id="320803979" lat="54.1470012" lon="-2.0490605">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blue Bell Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="320926347" lat="54.2250038" lon="-0.8743263">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sun"/>
+  </node>
+  <node id="320928291" lat="54.2016693" lon="-0.8528332">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Lion"/>
+  </node>
+  <node id="321358631" lat="54.1465465" lon="-2.0462653">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The King's Head"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="322608011" lat="54.0750083" lon="-1.2132273">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Station Inn"/>
+  </node>
+  <node id="322860716" lat="54.1666117" lon="-0.9325885">
+    <tag k="addr:city" v="Slingsby"/>
+    <tag k="addr:housename" v="The Grapes Inn"/>
+    <tag k="addr:postcode" v="YO62 4AL"/>
+    <tag k="addr:street" v="Railway Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Grapes Inn"/>
+    <tag k="website" v="http://www.thegrapesinn-slingsby.co.uk/"/>
+  </node>
+  <node id="322865420" lat="54.2310495" lon="-1.0102444">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Star Inn"/>
+  </node>
+  <node id="323162644" lat="54.1009848" lon="-1.0623746">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blacksmiths Arms"/>
+  </node>
+  <node id="329559524" lat="54.1574240" lon="-2.4835380">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Marton Arms"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="330279704" lat="54.0383112" lon="-0.7112936">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Crosskeys"/>
+  </node>
+  <node id="330945963" lat="54.1352465" lon="-0.7965303">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Suddabys"/>
+  </node>
+  <node id="330945964" lat="54.1362460" lon="-0.7977233">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cross Keys"/>
+  </node>
+  <node id="331167523" lat="54.1348236" lon="-0.7998896">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Green Man"/>
+  </node>
+  <node id="331167524" lat="54.1352602" lon="-0.7997971">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Chapter Two"/>
+  </node>
+  <node id="331167525" lat="54.1357604" lon="-0.7992004">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="331247409" lat="54.0001266" lon="-2.3539672">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dog &amp; Partridge"/>
+  </node>
+  <node id="337003763" lat="54.2949752" lon="-0.9639974">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="The Plough"/>
+  </node>
+  <node id="338692840" lat="54.1692300" lon="-1.2098602">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Orchard"/>
+  </node>
+  <node id="339172243" lat="54.0980511" lon="-0.7105553">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Middleton Arms"/>
+  </node>
+  <node id="349282853" lat="54.1027033" lon="-1.1074571">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Bear"/>
+  </node>
+  <node id="352865342" lat="54.3686785" lon="-1.2996414">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="352865345" lat="54.3684184" lon="-1.2999404">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queen Catherine Hotel"/>
+  </node>
+  <node id="352865346" lat="54.3681959" lon="-1.2990345">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Tuns"/>
+  </node>
+  <node id="354999334" lat="54.4548722" lon="-0.5708540">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hare And Hounds"/>
+  </node>
+  <node id="355010196" lat="54.2283153" lon="-0.5883672">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Peacock"/>
+  </node>
+  <node id="359050837" lat="54.0028443" lon="-1.5475380">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Claro Beagle"/>
+  </node>
+  <node id="361090221" lat="54.0075922" lon="-1.5786409">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old Spring Well"/>
+    <tag k="old_name" v="Traveller's Rest"/>
+    <tag k="source" v="Local knowledge"/>
+    <tag k="website" v="http://www.oldspringwellpubharrogate.co.uk/"/>
+  </node>
+  <node id="368375139" lat="54.5139662" lon="-1.2793848">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Pathfinders"/>
+  </node>
+  <node id="369100007" lat="54.4510287" lon="-1.2754978">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse Inn"/>
+  </node>
+  <node id="369100525" lat="54.2330604" lon="-1.3416992">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blacksmiths Arms"/>
+  </node>
+  <node id="369100530" lat="54.2332110" lon="-1.3421662">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="370533259" lat="54.5963773" lon="-1.2478180">
+    <tag k="addr:city" v="Billingham"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="TS23 1QE"/>
+    <tag k="addr:street" v="Haverton Hill Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="250983"/>
+    <tag k="loc_name" v="The Top House"/>
+    <tag k="name" v="Haverton Hill Hotel"/>
+  </node>
+  <node id="370914501" lat="54.0680509" lon="-2.2771715">
+    <tag k="accommodation" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Lion"/>
+    <tag k="operator" v="Thwaites"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="371802346" lat="54.3038526" lon="-2.1969312">
+    <tag k="accommodation" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="White Hart Inn"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="372834545" lat="54.3041428" lon="-2.1988476">
+    <tag k="accommodation" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Theakston"/>
+    <tag k="name" v="The Crown"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="tourism" v="bed_and_breakfast"/>
+  </node>
+  <node id="372937113" lat="54.3042511" lon="-2.1991038">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:city" v="Hawes"/>
+    <tag k="addr:postcode" v="DL8 3RD"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="email" v="ann@theboardinn.co.uk"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Board Inn"/>
+    <tag k="phone" v="+44 1969 667 223"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="website" v="http://www.theboardinn.co.uk/"/>
+  </node>
+  <node id="372937114" lat="54.3040827" lon="-2.1984108">
+    <tag k="accommodation" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Fountain"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="373408471" lat="53.8060504" lon="-1.1759519">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blacksmiths Arms"/>
+  </node>
+  <node id="375931351" lat="54.0996891" lon="-1.4066596">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fox &amp; Hounds"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="375949042" lat="54.0941784" lon="-1.3957771">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="375968323" lat="54.0608024" lon="-1.3630032">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Punch Bowl Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="375975754" lat="54.0245819" lon="-1.4008293">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="Merkaartor 0.13"/>
+    <tag k="name" v="The Tiger Inn"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="375980549" lat="53.9746758" lon="-1.3690942">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bridge Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="376042660" lat="53.9577335" lon="-1.0808453">
+    <tag k="addr:postcode" v="YO1 9NR"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Tuns"/>
+  </node>
+  <node id="376042680" lat="53.9574271" lon="-1.0830599">
+    <tag k="addr:postcode" v="YO1 9QX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Slug and Lettuce"/>
+    <tag k="note" v="post code on slug and lettuce website of YO1 9QX is wrong"/>
+  </node>
+  <node id="376042756" lat="53.9572374" lon="-1.0845081">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housename" v="Merchant Exchange"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="YO1 6DD"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Missoula"/>
+  </node>
+  <node id="379869247" lat="54.1331361" lon="-1.5179392">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Water Rat"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="387429684" lat="53.6437095" lon="-1.2156416">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shoulder of Mutton"/>
+  </node>
+  <node id="389811906" lat="54.0042341" lon="-2.2218634">
+    <tag k="addr:city" v="Hellifield"/>
+    <tag k="addr:postcode" v="BD23 4HT"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Black Horse Hotel"/>
+    <tag k="phone" v="01729 851402"/>
+  </node>
+  <node id="396062519" lat="54.4124663" lon="-1.2662872">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Horse"/>
+    <tag k="note" v="Beer: John Smiths, Camerons Strongarm, Food"/>
+  </node>
+  <node id="403135636" lat="53.8831382" lon="-1.2637990">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Howden Arms"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="403137224" lat="53.8839373" lon="-1.2612071">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Angel and White Horse"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="403137833" lat="53.8827394" lon="-1.2652007">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox and Hounds"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="403138984" lat="53.8833302" lon="-1.2624087">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Queen"/>
+  </node>
+  <node id="403142031" lat="53.8853100" lon="-1.2591469">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Commercial Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Britannia"/>
+  </node>
+  <node id="403142963" lat="53.8860520" lon="-1.2589072">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Commercial Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse"/>
+  </node>
+  <node id="412874929" lat="54.5586510" lon="-1.3045525">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dubliners"/>
+  </node>
+  <node id="412975723" lat="54.5824855" lon="-1.2320941">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Captin Cook"/>
+  </node>
+  <node id="413038081" lat="54.5669648" lon="-1.3127737">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Castle &amp; Anchor"/>
+  </node>
+  <node id="413038109" lat="54.5625562" lon="-1.3131873">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Horner"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="415336809" lat="54.0029264" lon="-1.4678556">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dropping Well Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="415336811" lat="54.0037030" lon="-1.4672526">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Half Moon"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="415339254" lat="54.0436189" lon="-1.5100343">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Malt Shovel"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="417902333" lat="54.5762871" lon="-1.2379419">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Yates'"/>
+    <tag k="operator" v="Yate's"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="417902335" lat="54.5759117" lon="-1.2380389">
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Lloyd's"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Lloyds No1"/>
+    <tag k="old_name" v="The Red Parrot"/>
+    <tag k="operator" v="Wetherspoon"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="418735957" lat="54.5780532" lon="-1.2371194">
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Isaac Wilson"/>
+    <tag k="operator" v="Wetherspoon"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="419017670" lat="54.5605813" lon="-1.2426050">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cleveland"/>
+  </node>
+  <node id="432531275" lat="54.0141083" lon="-1.5200152">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Gardener's Arms"/>
+  </node>
+  <node id="432654251" lat="54.4599036" lon="-0.9150758">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fox &amp; Hounds"/>
+  </node>
+  <node id="432660951" lat="54.4685618" lon="-0.9092172">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Duke of Wellington"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="442029425" lat="54.1219701" lon="-1.1928966">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="GPSBabel-1.3.6"/>
+    <tag k="name" v="The Commercial"/>
+  </node>
+  <node id="442029428" lat="54.1223686" lon="-1.1919336">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="GPSBabel-1.3.6"/>
+    <tag k="name" v="The Angel"/>
+  </node>
+  <node id="442029432" lat="54.1218393" lon="-1.1916177">
+    <tag k="amenity" v="pub"/>
+    <tag k="created_by" v="GPSBabel-1.3.6"/>
+    <tag k="name" v="The York"/>
+  </node>
+  <node id="444774800" lat="54.5636456" lon="-1.3137180">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Trader Jack's"/>
+  </node>
+  <node id="445033292" lat="54.0117940" lon="-1.5423010">
+    <tag k="addr:city" v="Harrogate"/>
+    <tag k="addr:street" v="Knox Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="atm" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Knox Arms"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="no"/>
+  </node>
+  <node id="446946873" lat="54.5640730" lon="-1.3118720">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Dragon"/>
+  </node>
+  <node id="446946874" lat="54.5648266" lon="-1.3124075">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stag"/>
+  </node>
+  <node id="446946876" lat="54.5675413" lon="-1.3133637">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mulberry Tree"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="448366687" lat="53.9800941" lon="-1.6859968">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sun Inn"/>
+    <tag k="website" v="www.thesun-inn.co.uk"/>
+  </node>
+  <node id="449334152" lat="54.3086145" lon="-2.1032732">
+    <tag k="addr:postcode" v="DL8 3EE"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="free_house"/>
+    <tag k="free_house" v="yes"/>
+    <tag k="name" v="Rose &amp; Crown"/>
+    <tag k="phone" v="01969 650225"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="website" v="http://www.theprideofwensleydale.co.uk/"/>
+  </node>
+  <node id="449340676" lat="54.2912516" lon="-1.9951703">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The George and Dragon"/>
+    <tag k="note" v="May be other side of road"/>
+  </node>
+  <node id="449341103" lat="54.5588078" lon="-0.7902860">
+    <tag k="addr:postcode" v="TS13 5BH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cod and Lobster"/>
+  </node>
+  <node id="449341641" lat="54.5592086" lon="-0.7917925">
+    <tag k="addr:postcode" v="TS13 5BU"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal George"/>
+  </node>
+  <node id="450566191" lat="54.1183955" lon="-1.1907628">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Horseshoe"/>
+  </node>
+  <node id="453582432" lat="54.3160531" lon="-2.0793386">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown Inn"/>
+  </node>
+  <node id="453582433" lat="54.3151015" lon="-2.0805669">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kings Arms Hotel"/>
+  </node>
+  <node id="455206686" lat="53.9205565" lon="-0.9352833">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Grey Horse"/>
+  </node>
+  <node id="457898816" lat="54.4321037" lon="-0.5467597">
+    <tag k="addr:postcode" v="YO22 4TH"/>
+    <tag k="addr:street" v="Thorpe Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fylingdales Inn"/>
+    <tag k="phone" v="01947 880 433"/>
+    <tag k="website" v="http://www.fylingdalesinn.co.uk/"/>
+  </node>
+  <node id="460389247" lat="54.1879885" lon="-1.1833635">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fauconberg Arms"/>
+  </node>
+  <node id="461273445" lat="53.9893381" lon="-1.5392015">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Tap and Spile"/>
+  </node>
+  <node id="461279709" lat="54.0063927" lon="-1.4621419">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Marquis of Granby"/>
+  </node>
+  <node id="462584069" lat="54.0096083" lon="-1.4742812">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="World's End"/>
+  </node>
+  <node id="462584511" lat="54.0090241" lon="-1.4707553">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mitre"/>
+  </node>
+  <node id="462587672" lat="53.9817055" lon="-1.4948822">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Traveller's Rest"/>
+  </node>
+  <node id="462603639" lat="53.9916562" lon="-1.5412376">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Alexandra"/>
+  </node>
+  <node id="462604102" lat="53.9918203" lon="-1.5407685">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Pitcher and Piano"/>
+  </node>
+  <node id="462604849" lat="53.9919351" lon="-1.5408118">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Banyan"/>
+  </node>
+  <node id="462615653" lat="53.9942012" lon="-1.5439439">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wetherspoon's The Winter Gardens"/>
+  </node>
+  <node id="469751785" lat="54.5046560" lon="-1.3080285">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox Covert"/>
+  </node>
+  <node id="469834286" lat="54.5440740" lon="-1.3042863">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jolly Farmer"/>
+  </node>
+  <node id="469892663" lat="53.9612037" lon="-1.0834511">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="YO1 8AS"/>
+    <tag k="addr:street" v="Stonegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ye Olde Starre Inne"/>
+  </node>
+  <node id="471863292" lat="54.3373606" lon="-1.4339217">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Durham Ox"/>
+  </node>
+  <node id="471863407" lat="54.3617448" lon="-1.4237937">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+  </node>
+  <node id="471863419" lat="54.3411512" lon="-1.4344398">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Masons Arms"/>
+  </node>
+  <node id="473495037" lat="53.7252981" lon="-1.0218090">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Comus Inn"/>
+  </node>
+  <node id="474368325" lat="54.4336225" lon="-1.4638613">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="474495815" lat="54.1919936" lon="-0.2852736">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Southcliff Drive"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Spencers"/>
+  </node>
+  <node id="474497642" lat="54.1893823" lon="-0.2831536">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Showbar"/>
+  </node>
+  <node id="474497763" lat="54.1893672" lon="-0.2823296">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Jesters Club"/>
+  </node>
+  <node id="476795542" lat="54.5704520" lon="-1.3022331">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Portrack"/>
+  </node>
+  <node id="477372156" lat="54.5202791" lon="-1.2594157">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stainton"/>
+  </node>
+  <node id="477397927" lat="54.5193270" lon="-1.2510094">
+    <tag k="amenity" v="pub"/>
+    <tag k="source" v="GPS"/>
+  </node>
+  <node id="477904282" lat="54.2471603" lon="-0.7780788">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Station Hotel"/>
+  </node>
+  <node id="478526886" lat="53.9443853" lon="-2.1132685">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Tempest Arms"/>
+  </node>
+  <node id="478575228" lat="54.2854071" lon="-0.4071552">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Tennyson Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="478594648" lat="54.2851724" lon="-0.4054968">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sunrise"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="478606184" lat="54.2840660" lon="-0.4037747">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="West Riding Hotel"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="478606253" lat="54.2835399" lon="-0.4047102">
+    <tag k="addr:city" v="Scarborough"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Victoria Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Prince of Wales"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="478888358" lat="54.4696397" lon="-1.1920913">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Spreadeagle"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="478888413" lat="54.4695352" lon="-1.1927202">
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="Marston's"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Queens Head"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:date" v="20160322"/>
+  </node>
+  <node id="478888524" lat="54.4679399" lon="-1.1954668">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Swan"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="479305942" lat="54.2460278" lon="-0.7779090">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="479305997" lat="54.2458883" lon="-0.7772412">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Swan Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="479306115" lat="54.2460194" lon="-0.7844400">
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:postcode" v="YO18 8BB"/>
+    <tag k="addr:street" v="Westgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sun Inn"/>
+    <tag k="note" v="Name as per business card +website rather than the sign on the building"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="real_fire" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.thesuninn-pickering.co.uk"/>
+  </node>
+  <node id="479306161" lat="54.2452445" lon="-0.7760053">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="479764294" lat="54.2374175" lon="-0.4186379">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Scarborough"/>
+    <tag k="operator" v="Hungry Horse"/>
+  </node>
+  <node id="480459492" lat="54.4864246" lon="-0.6161626">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Little Angel"/>
+  </node>
+  <node id="480459493" lat="54.4865840" lon="-0.6165559">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Elsinore"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480459497" lat="54.4875573" lon="-0.6118464">
+    <tag k="addr:city" v="Whitby"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="YO22 4BH"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Horse and Griffin"/>
+    <tag k="source" v="survey"/>
+    <tag k="url" v="http://www.whitehorseandgriffin.com/"/>
+  </node>
+  <node id="480459498" lat="54.4876869" lon="-0.6119322">
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="YO22 4BH"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Horse"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480459500" lat="54.4880149" lon="-0.6127184">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Shambles"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480465977" lat="54.4878249" lon="-0.6178576">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Granby"/>
+    <tag k="source:name" v="survey"/>
+  </node>
+  <node id="480470289" lat="54.4877076" lon="-0.6148412">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="location approximate"/>
+    <tag k="name" v="The Star Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480470290" lat="54.4880524" lon="-0.6147624">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="location approximate"/>
+    <tag k="name" v="The Ship"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480470294" lat="54.4883981" lon="-0.6151256">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="location approximate"/>
+    <tag k="name" v="The Pier Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480470306" lat="54.4868304" lon="-0.6139902">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Lion"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480470311" lat="54.4874399" lon="-0.6144001">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="location approximate"/>
+    <tag k="name" v="Jolly Sailors"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480687312" lat="54.4873542" lon="-0.6143143">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="location approximate"/>
+    <tag k="name" v="Buck Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="480725765" lat="54.6151534" lon="-1.2591587">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="480767270" lat="54.2892805" lon="-0.4038536">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cricketers (closed)"/>
+    <tag k="note" v="ugly as sin, apparently scheduled for demolition"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="482007020" lat="54.5615897" lon="-1.3144581">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Garrick"/>
+  </node>
+  <node id="482007023" lat="54.5628413" lon="-1.3132267">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Legends"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="482007088" lat="54.5675052" lon="-1.3127417">
+    <tag k="amenity" v="pub"/>
+    <tag k="disused" v="yes"/>
+    <tag k="name" v="The Lambton Castle"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="482007098" lat="54.5648000" lon="-1.3113392">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Don"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="482007129" lat="54.5685252" lon="-1.3074289">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Dolphin"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="482098003" lat="54.5239409" lon="-1.3096797">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Teal Arms"/>
+  </node>
+  <node id="485190810" lat="54.5624490" lon="-1.3131835">
+    <tag k="amenity" v="pub"/>
+    <tag k="disused" v="yes"/>
+    <tag k="name" v="CJ's"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="485199620" lat="54.5567745" lon="-1.3026073">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Market Tavern"/>
+  </node>
+  <node id="490253890" lat="53.8024029" lon="-0.9334343">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Breighton Ferry pub"/>
+  </node>
+  <node id="492937286" lat="53.8136270" lon="-1.1023105">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="497113903" lat="54.5869878" lon="-1.3091592">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Red Lion"/>
+  </node>
+  <node id="497316430" lat="54.2365904" lon="-1.2580726">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Whitestonecliffe Inn"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="506841725" lat="54.3989065" lon="-1.3088003">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blue Bell Inn"/>
+    <tag k="website" v="http://www.the-blue-bell-inn.co.uk"/>
+  </node>
+  <node id="512281660" lat="54.5863332" lon="-1.3101433">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="530647822" lat="54.6255072" lon="-1.2863523">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Owington Farm"/>
+  </node>
+  <node id="530654106" lat="54.6165149" lon="-1.3018173">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kings Arms"/>
+  </node>
+  <node id="540649259" lat="54.0679763" lon="-2.2758736">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Talbot Arms"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="554896827" lat="54.1878809" lon="-1.5061066">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The George at Wath"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="554897896" lat="54.1862046" lon="-1.4862410">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="George and Dragon"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="554951549" lat="54.4510593" lon="-1.7697615">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hack and Spade"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="555042502" lat="54.4546893" lon="-1.7860240">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shoulder of Mutton"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="558801087" lat="53.9617609" lon="-1.0905392">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse"/>
+  </node>
+  <node id="558801090" lat="53.9631170" lon="-1.0882716">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Minster Inn"/>
+  </node>
+  <node id="558801092" lat="53.9634208" lon="-1.0860693">
+    <tag k="addr:postcode" v="YO30 7BW"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bootham Tavern"/>
+  </node>
+  <node id="558801096" lat="53.9631870" lon="-1.0856300">
+    <tag k="addr:postcode" v="YO30 7BW"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Exhibition"/>
+  </node>
+  <node id="558807427" lat="53.9672019" lon="-1.0929237">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Burton Stone"/>
+  </node>
+  <node id="558807436" lat="53.9599338" lon="-1.0818958">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Roman Bath"/>
+  </node>
+  <node id="558807446" lat="53.9628764" lon="-1.0782014">
+    <tag k="addr:postcode" v="YO31 7PE"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Keystones"/>
+  </node>
+  <node id="559267370" lat="53.9611032" lon="-1.0854379">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Thomas's"/>
+  </node>
+  <node id="559267372" lat="53.9618596" lon="-1.0796354">
+    <tag k="addr:postcode" v="YO1 7LS"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Vahe Bar"/>
+  </node>
+  <node id="559267374" lat="53.9549480" lon="-1.0691010">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:postcode" v="YO10 3BP"/>
+    <tag k="addr:street" v="Lawrence Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="camra" v="yes"/>
+    <tag k="name" v="Waggon and Horses"/>
+    <tag k="operator" v="Batemans"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="560608252" lat="53.7673929" lon="-1.0904819">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Grey Horse"/>
+  </node>
+  <node id="560608253" lat="53.7677861" lon="-1.0901922">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Swan"/>
+  </node>
+  <node id="560769142" lat="53.7840018" lon="-1.0657539">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Albion Vaults"/>
+  </node>
+  <node id="561108424" lat="54.5614320" lon="-1.3178698">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Diamond"/>
+  </node>
+  <node id="563335565" lat="53.7865040" lon="-1.0683867">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Lion (closed)"/>
+  </node>
+  <node id="563358780" lat="53.7854999" lon="-1.0677772">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse Inn"/>
+  </node>
+  <node id="564053616" lat="54.3151768" lon="-2.0796871">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Rose Hotel"/>
+  </node>
+  <node id="565048494" lat="53.7505409" lon="-1.0997606">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wheatsheaf Inn"/>
+  </node>
+  <node id="565704395" lat="54.4178250" lon="-1.9939110">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Red Lion"/>
+  </node>
+  <node id="566167602" lat="53.9876387" lon="-0.9505891">
+    <tag k="amenity" v="pub"/>
+    <tag k="car_park" v="yes"/>
+    <tag k="name" v="The Duke of York"/>
+  </node>
+  <node id="566168178" lat="53.9885893" lon="-0.9707505">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Agar Arms"/>
+  </node>
+  <node id="568102284" lat="54.3164477" lon="-2.2049546">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Dragon"/>
+    <tag k="website" v="www.greendragonhardraw.com"/>
+  </node>
+  <node id="568169439" lat="53.7826039" lon="-1.0593818">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Nelson"/>
+  </node>
+  <node id="568513566" lat="53.7753903" lon="-1.0575564">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Boy &amp; Barrel"/>
+  </node>
+  <node id="571844076" lat="53.7740670" lon="-1.1261047">
+    <tag k="addr:city" v="Thorpe Willoughby, Selby"/>
+    <tag k="addr:postcode" v="YO8"/>
+    <tag k="addr:street" v="Leeds Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="581390502" lat="53.7295817" lon="-1.0348151">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Dog"/>
+  </node>
+  <node id="581392098" lat="53.7102618" lon="-1.0197911">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Foresters Arms"/>
+  </node>
+  <node id="583067035" lat="53.7838593" lon="-1.0699918">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Treehouse"/>
+  </node>
+  <node id="583343757" lat="53.7840099" lon="-1.0634750">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Station"/>
+  </node>
+  <node id="588950252" lat="53.7498134" lon="-0.9582030">
+    <tag k="addr:city" v="Barmby on the Marsh"/>
+    <tag k="addr:postcode" v="DN14 7HT"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="fax" v="+441757630705"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The King's Head"/>
+    <tag k="opening_hours" v="Mo-Tu 17:00-23:00; We-Th 12:00-14:00,17:00-23:00; Fr 12:00-14:00,17:00-00:00; Sa 12:00-00:00; Su 12:00-23:00; PH 12:00-23:00"/>
+    <tag k="phone" v="+441757630705"/>
+    <tag k="website" v="http://www.thekingsheadbarmby.co.uk/"/>
+  </node>
+  <node id="592060417" lat="54.5779734" lon="-1.2340976">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Absolut"/>
+    <tag k="old_name" v="The Ayresome"/>
+  </node>
+  <node id="599527866" lat="54.5755866" lon="-1.2403273">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Green Tree"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="600748452" lat="54.5708572" lon="-1.2383242">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="TS1"/>
+  </node>
+  <node id="600748454" lat="54.5707701" lon="-1.2348158">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Star"/>
+    <tag k="old_name" v="Star and Garter"/>
+  </node>
+  <node id="600857042" lat="53.7329388" lon="-1.1432457">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="George &amp; Dragon"/>
+  </node>
+  <node id="606994138" lat="53.8341828" lon="-1.0579586">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Greyhound Inn"/>
+    <tag k="real_ale" v="8 beers"/>
+  </node>
+  <node id="606994478" lat="53.8337729" lon="-1.0591387">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hare and Hounds"/>
+  </node>
+  <node id="609272379" lat="54.5765847" lon="-1.2323842">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Square 1"/>
+  </node>
+  <node id="609272385" lat="54.5763307" lon="-1.2338602">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Pig Iron"/>
+  </node>
+  <node id="615038853" lat="54.5374290" lon="-1.0529207">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Quoit Social Club"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="616932173" lat="53.7221672" lon="-1.1934834">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Jenny Wren"/>
+  </node>
+  <node id="617222981" lat="54.0167577" lon="-0.9817292">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Four Alls"/>
+  </node>
+  <node id="620994208" lat="53.7291826" lon="-1.1219152">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jug Inn"/>
+  </node>
+  <node id="620994209" lat="53.7168799" lon="-1.0830854">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sloop Inn"/>
+  </node>
+  <node id="621002357" lat="53.7139846" lon="-1.0758756">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak"/>
+  </node>
+  <node id="621002361" lat="53.7189079" lon="-1.1673186">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Red Lion"/>
+  </node>
+  <node id="623094954" lat="54.5936889" lon="-1.2917590">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Salutation"/>
+  </node>
+  <node id="623904722" lat="53.7144292" lon="-1.2684707">
+    <tag k="addr:postcode" v="WF11 8ND"/>
+    <tag k="addr:street" v="The Square"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="660551"/>
+    <tag k="name" v="The Golden Lion"/>
+  </node>
+  <node id="623904723" lat="53.7136919" lon="-1.2675934">
+    <tag k="addr:postcode" v="WF11 8NB"/>
+    <tag k="addr:street" v="Fishergate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="313896"/>
+    <tag k="name" v="Magnet Inn"/>
+  </node>
+  <node id="624115231" lat="54.1838864" lon="-1.2376703">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Carlton Bore"/>
+  </node>
+  <node id="624640410" lat="54.5403555" lon="-1.3039660">
+    <tag k="alt_name" v="The Oddie"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Oldfellows Arms"/>
+  </node>
+  <node id="626949300" lat="54.0078371" lon="-1.4670371">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blind Jack's"/>
+  </node>
+  <node id="626949545" lat="54.0078118" lon="-1.4657432">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="So! Bar"/>
+  </node>
+  <node id="626950471" lat="54.0084206" lon="-1.4672667">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Groves"/>
+  </node>
+  <node id="634247081" lat="54.4136138" lon="-1.2677718">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blacksmiths"/>
+  </node>
+  <node id="634324846" lat="54.2459681" lon="-1.0616197">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="639076757" lat="54.5541815" lon="-1.3400298">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Masham"/>
+  </node>
+  <node id="639076762" lat="54.5553498" lon="-1.3371396">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stockton Arms"/>
+  </node>
+  <node id="639597122" lat="54.5704178" lon="-1.3107484">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Spotted Cow"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="639597138" lat="54.5878385" lon="-1.3107667">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="TS20 1AQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Highland Laddie"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-24:00"/>
+    <tag k="operator" v="JD Wetherspoon"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="643438276" lat="53.9214425" lon="-1.0956934">
+    <tag k="addr:postcode" v="YO23 2RB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Sam Smiths"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Ebor"/>
+  </node>
+  <node id="643438756" lat="53.9215101" lon="-1.0980794">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Marcia"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="643439252" lat="53.9209805" lon="-1.0981450">
+    <tag k="addr:postcode" v="YO23 2RB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="leisure" v="social_club"/>
+    <tag k="name" v="Bishopthorpe Sports and Social Club"/>
+  </node>
+  <node id="643895468" lat="54.5622618" lon="-1.3252623">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Oxbridge Social Club"/>
+    <tag k="parking" v="yes"/>
+  </node>
+  <node id="644198897" lat="53.7847845" lon="-1.0655132">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queen Lizzie (closed)"/>
+    <tag k="note" v="Formerly the Queen's Vaults"/>
+  </node>
+  <node id="649499882" lat="54.1031421" lon="-0.8992824">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Crown and Cushion"/>
+  </node>
+  <node id="651540559" lat="54.5225107" lon="-1.2187541">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lingfield Arms"/>
+  </node>
+  <node id="654101449" lat="54.3337464" lon="-1.4401629">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Station"/>
+  </node>
+  <node id="656864765" lat="53.9150051" lon="-1.1413646">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak"/>
+  </node>
+  <node id="663216298" lat="54.0330552" lon="-1.2203444">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blacksmiths Arms"/>
+  </node>
+  <node id="663216300" lat="54.0340083" lon="-1.2216131">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Dawnay Arms"/>
+  </node>
+  <node id="663594908" lat="54.6029420" lon="-1.2973860">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Station"/>
+  </node>
+  <node id="670308954" lat="53.7873696" lon="-1.0611298">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Olympia"/>
+  </node>
+  <node id="672947723" lat="53.8896477" lon="-1.0456131">
+    <tag k="addr:postcode" v="YO19 6HA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Swan"/>
+  </node>
+  <node id="674376054" lat="54.3410463" lon="-1.4337639">
+    <tag k="amenity" v="pub"/>
+    <tag k="description" v="Real ales, no music."/>
+    <tag k="name" v="Tithe Bar"/>
+  </node>
+  <node id="674664749" lat="54.3386703" lon="-1.4340802">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tickle Toby"/>
+  </node>
+  <node id="674939555" lat="54.3387360" lon="-1.4352720">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sportsman's Bar"/>
+  </node>
+  <node id="685054493" lat="53.9434181" lon="-1.2734537">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Chequers"/>
+  </node>
+  <node id="685061857" lat="53.9281528" lon="-1.1652509">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Nag's Head"/>
+  </node>
+  <node id="685131729" lat="53.9540202" lon="-1.2364349">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sun Inn"/>
+  </node>
+  <node id="687986163" lat="54.4697378" lon="-0.6282944">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bridge Inn"/>
+  </node>
+  <node id="688010385" lat="54.4854486" lon="-0.6158274">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wellington Inn"/>
+  </node>
+  <node id="688010586" lat="54.4851497" lon="-0.6165012">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Rosie O'Grady's"/>
+  </node>
+  <node id="688065927" lat="54.5386552" lon="-1.0505267">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Abbey Inn"/>
+  </node>
+  <node id="688079167" lat="54.4850920" lon="-0.6274071">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Stakesby Arms"/>
+  </node>
+  <node id="688080491" lat="54.4878257" lon="-0.6324249">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Whitby Rugby Club"/>
+  </node>
+  <node id="688222720" lat="54.4865523" lon="-0.6227717">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Whitby Conservative Club"/>
+  </node>
+  <node id="688229310" lat="54.4853021" lon="-0.6150576">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Station Inn"/>
+  </node>
+  <node id="689924410" lat="54.6115761" lon="-1.3088232">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wynyard"/>
+  </node>
+  <node id="690213817" lat="54.5812780" lon="-1.3360697">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mile House"/>
+  </node>
+  <node id="690660182" lat="54.4944168" lon="-0.6478996">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Whitby Golf Club"/>
+  </node>
+  <node id="693681950" lat="54.3038410" lon="-0.4249824">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Scalby Manor"/>
+  </node>
+  <node id="693716891" lat="54.3004792" lon="-0.4201330">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ivanhoe"/>
+  </node>
+  <node id="694076199" lat="54.6248865" lon="-1.2994030">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wellington"/>
+  </node>
+  <node id="694076203" lat="54.6248989" lon="-1.2986520">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ship Inn"/>
+  </node>
+  <node id="694082318" lat="54.5687412" lon="-1.2482825">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="694094051" lat="54.5949291" lon="-1.2922573">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Smiths arms"/>
+  </node>
+  <node id="695101590" lat="54.3339460" lon="-1.4457157">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="697370951" lat="54.5344129" lon="-1.2049265">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="700401429" lat="54.5385596" lon="-1.0537009">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Globe"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="706872423" lat="53.7230086" lon="-1.1940232">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Hungry Fox Inn"/>
+  </node>
+  <node id="707397186" lat="54.5685630" lon="-1.1988664">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brambles Farm"/>
+  </node>
+  <node id="710255196" lat="54.5526716" lon="-1.1858672">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="712386722" lat="53.6992722" lon="-0.9636870">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Creykes Arms"/>
+  </node>
+  <node id="713310038" lat="54.5189246" lon="-1.3602541">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Eagle"/>
+  </node>
+  <node id="717585358" lat="54.1849400" lon="-1.0592573">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fairfax Arms"/>
+    <tag k="note" v="The fairfax arms"/>
+    <tag k="website" v="http://www.thefairfaxarms-gilling.co.uk/"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="727631300" lat="53.9543352" lon="-2.1410787">
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Cross Keys"/>
+    <tag k="operator" v="Copper Dragon"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="3 from Copper Dragon, Theakston's XB"/>
+    <tag k="real_fire" v="yes"/>
+  </node>
+  <node id="730735621" lat="54.4216576" lon="-1.2367440">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sutton Arms"/>
+  </node>
+  <node id="731909590" lat="54.5580545" lon="-1.1401478">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="732235475" lat="54.5563847" lon="-1.1646500">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="733864207" lat="54.5117452" lon="-1.2909751">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Manor House"/>
+  </node>
+  <node id="733964883" lat="54.5721364" lon="-1.2118503">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="735129528" lat="54.0690460" lon="-2.2773745">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Royal Oak Hotel"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="735374078" lat="53.9601415" lon="-1.0847647">
+    <tag k="addr:postcode" v="YO1 8QN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Harkers"/>
+  </node>
+  <node id="735504558" lat="53.9589172" lon="-1.0790176">
+    <tag k="addr:postcode" v="YO1 9TA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Terrace"/>
+  </node>
+  <node id="735958221" lat="53.9622746" lon="-1.0790548">
+    <tag k="addr:postcode" v="YO1 7LG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak"/>
+  </node>
+  <node id="735982637" lat="53.9598005" lon="-1.0817658">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Cranes"/>
+  </node>
+  <node id="736284390" lat="53.9617098" lon="-1.0832051">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Guy Fawkes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="737269458" lat="54.5116072" lon="-1.3510290">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Pot &amp; Glass"/>
+  </node>
+  <node id="737269480" lat="54.5122612" lon="-1.3547305">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blue Bell"/>
+  </node>
+  <node id="738148912" lat="53.7625282" lon="-1.2352709">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blue Bell (closed)"/>
+    <tag k="note" v="Closed Feb 2012. To Let sign up"/>
+  </node>
+  <node id="738148914" lat="53.7620060" lon="-1.2352260">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown Inn"/>
+  </node>
+  <node id="747158090" lat="53.9650051" lon="-1.2866775">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Boot and Shoe"/>
+  </node>
+  <node id="752175670" lat="54.2099292" lon="-1.2144540">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Forresters Arms"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="752450283" lat="54.5849890" lon="-0.9649544">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ship"/>
+  </node>
+  <node id="764412422" lat="53.8258421" lon="-1.2781614">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Greyhound"/>
+  </node>
+  <node id="768049960" lat="54.5695268" lon="-1.3125183">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cholrton Hotel"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="768873577" lat="54.6080161" lon="-1.2746076">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cowpen Club"/>
+  </node>
+  <node id="768873578" lat="54.5961305" lon="-1.2837459">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Synthonia Club"/>
+  </node>
+  <node id="769218875" lat="53.7978534" lon="-1.0415760">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Inn"/>
+  </node>
+  <node id="772206728" lat="53.9390928" lon="-1.5742759">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Square and Compass"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="778785373" lat="53.7851994" lon="-1.0664246">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Swans"/>
+  </node>
+  <node id="785018306" lat="54.5267176" lon="-1.0555372">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Huntsman"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="787006893" lat="54.4625339" lon="-1.3213454">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="796954580" lat="54.4459024" lon="-1.1706598">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="800192826" lat="53.9679506" lon="-1.0808727">
+    <tag k="addr:postcode" v="YO31 7ND"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="ele" v="14.0649414"/>
+    <tag k="name" v="The Punch Bowl"/>
+  </node>
+  <node id="800192831" lat="53.9675897" lon="-1.0811276">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Castle Howard Ox"/>
+    <tag k="source" v="View from Clarence Street"/>
+  </node>
+  <node id="800192836" lat="53.9641184" lon="-1.0837289">
+    <tag k="addr:postcode" v="YO31 7EQ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="ele" v="15.7471924"/>
+    <tag k="name" v="The Gillygate"/>
+  </node>
+  <node id="805590476" lat="54.4485174" lon="-0.6665719">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Plough Inn"/>
+  </node>
+  <node id="806145636" lat="54.4359721" lon="-0.7243865">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Station Tavern"/>
+  </node>
+  <node id="806171944" lat="54.3214112" lon="-0.4417929">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Oak Wheel"/>
+  </node>
+  <node id="806171946" lat="54.3217241" lon="-0.4438636">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Jolly Sailors"/>
+  </node>
+  <node id="814777593" lat="54.5026303" lon="-1.1634198">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="814777602" lat="54.5266643" lon="-1.1933522">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Southern Cross"/>
+  </node>
+  <node id="817277970" lat="54.5704273" lon="-1.2992803">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="836854239" lat="54.5690082" lon="-0.9318706">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Green Tree"/>
+  </node>
+  <node id="836864529" lat="53.8172706" lon="-1.2590717">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ash Tree"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+  </node>
+  <node id="844684518" lat="54.2280881" lon="-1.3749977">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Vale of York"/>
+  </node>
+  <node id="849986711" lat="53.9995128" lon="-1.1361782">
+    <tag k="amenity" v="pub"/>
+    <tag k="ele" v="14.7858887"/>
+    <tag k="name" v="The Blacksmiths Arms"/>
+  </node>
+  <node id="851873958" lat="54.3764406" lon="-2.1410069">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Farmer's Arms"/>
+  </node>
+  <node id="880960390" lat="53.9525912" lon="-1.0820084">
+    <tag k="addr:postcode" v="YO23 1AN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Slip Inn"/>
+  </node>
+  <node id="886761411" lat="54.1625342" lon="-2.1434560">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queens Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="891894793" lat="54.0824994" lon="-1.2432135">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bluebell"/>
+  </node>
+  <node id="891896461" lat="54.1231836" lon="-1.3295880">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Golden Lion"/>
+  </node>
+  <node id="899252274" lat="53.7458628" lon="-1.2848754">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wagon &amp; Horses"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="899252281" lat="53.7449111" lon="-1.2859858">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Horse Shoes"/>
+  </node>
+  <node id="943235849" lat="54.6136558" lon="-1.2827141">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Telstar"/>
+  </node>
+  <node id="943235850" lat="54.6072636" lon="-1.2946895">
+    <tag k="amenity" v="pub"/>
+    <tag k="layer" v="0"/>
+    <tag k="name" v="The Astronaut"/>
+  </node>
+  <node id="943235882" lat="54.6198061" lon="-1.2835509">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Merlin"/>
+  </node>
+  <node id="943240510" lat="54.6059057" lon="-1.2993879">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Billingham Constitutional Club"/>
+  </node>
+  <node id="943240684" lat="54.5940615" lon="-1.2911261">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Horse"/>
+  </node>
+  <node id="966046511" lat="54.4942843" lon="-1.3563074">
+    <tag k="addr:city" v="Yarm"/>
+    <tag k="addr:postcode" v="TS15 9TN"/>
+    <tag k="addr:street" v="Davenport Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="email" v="layfieldarms@live.co.uk"/>
+    <tag k="fixme" v="is this still a pub? News reports that it may be converted to houses"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Layfield Arms"/>
+    <tag k="phone" v="+44 1642 785841"/>
+    <tag k="postal_code" v="TS15 9TN"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="974617763" lat="53.9812403" lon="-1.5594228">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Harlow Inn"/>
+    <tag k="note" v="AKA Shepherd's Dog"/>
+  </node>
+  <node id="984270353" lat="54.5436126" lon="-1.1749803">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Pied Piper"/>
+  </node>
+  <node id="985219355" lat="54.5622237" lon="-1.2420685">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Park"/>
+  </node>
+  <node id="985219356" lat="54.5610713" lon="-1.2424349">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="989169733" lat="54.4884169" lon="-1.1427666">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Buck"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="989171049" lat="54.4884435" lon="-1.1330068">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="1003829944" lat="54.4852959" lon="-1.2328457">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The King's Head"/>
+  </node>
+  <node id="1035178963" lat="53.9582009" lon="-1.0925742">
+    <tag k="addr:postcode" v="YO24 1AY"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Duke of York"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1036076215" lat="54.1573662" lon="-0.6959685">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fleece"/>
+  </node>
+  <node id="1036076358" lat="54.1580435" lon="-0.6949323">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coach and Horses"/>
+  </node>
+  <node id="1038234806" lat="54.5353656" lon="-1.0509662">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox Inn"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="1100445739" lat="54.0934818" lon="-1.7748703">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bridge Inn"/>
+    <tag k="postal_code" v="HG3 5HL"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1100467671" lat="54.0909379" lon="-1.6961436">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Half Moon Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1106350848" lat="54.0232942" lon="-1.5642543">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Horseshoes"/>
+  </node>
+  <node id="1106771733" lat="54.0401154" lon="-1.5677625">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Boar's Head"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="1108818302" lat="54.5444636" lon="-0.9830671">
+    <tag k="addr:postcode" v="TS12 3AF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Station Hotel"/>
+  </node>
+  <node id="1116159005" lat="54.0339893" lon="-1.6269621">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old Station Inn"/>
+  </node>
+  <node id="1142580102" lat="54.5542695" lon="-1.2616538">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cambridge"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1180393126" lat="54.2009303" lon="-1.1072690">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Swan"/>
+  </node>
+  <node id="1180393131" lat="54.2010229" lon="-1.1107587">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Horse Inn"/>
+  </node>
+  <node id="1196862593" lat="54.2216315" lon="-0.3337295">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bull Inn"/>
+  </node>
+  <node id="1201418319" lat="54.3247062" lon="-1.5393674">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1211493262" lat="54.5645083" lon="-1.3141116">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Pound Pub"/>
+  </node>
+  <node id="1221449623" lat="54.1250709" lon="-1.6451332">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Grantley Arms"/>
+  </node>
+  <node id="1225402174" lat="54.3046691" lon="-0.7211637">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Horseshoe Inn"/>
+  </node>
+  <node id="1225442232" lat="54.3040380" lon="-0.7528937">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="1239254098" lat="54.4376699" lon="-0.7604950">
+    <tag k="addr:city" v="Egton Bridge"/>
+    <tag k="addr:postcode" v="YO21 1UX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="garden" v="yes"/>
+    <tag k="name" v="The Postgate Inn"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.postgateinn.com/"/>
+  </node>
+  <node id="1240329766" lat="54.4088038" lon="-0.7353516">
+    <tag k="addr:postcode" v="YO22 5LE"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="sandwich, pie, scone, cake"/>
+    <tag k="food" v="yes"/>
+    <tag k="garden" v="yes"/>
+    <tag k="name" v="Birch Hall Inn"/>
+    <tag k="operator" v="Freehouse"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="1241365598" lat="53.9085667" lon="-1.9843898">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1245491876" lat="54.3632213" lon="-1.4159181">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Village Inn"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1270084171" lat="54.4232965" lon="-2.0020081">
+    <tag k="addr:city" v="Reeth"/>
+    <tag k="addr:postcode" v="DL11 6EN"/>
+    <tag k="alt_name" v="The C.B. Inn"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="is_in:county" v="North Yorkshire"/>
+    <tag k="name" v="The Charles Bathurst Inn"/>
+    <tag k="website" v="cbinn.co.uk"/>
+  </node>
+  <node id="1279030500" lat="54.3404786" lon="-1.4341965">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fleece"/>
+  </node>
+  <node id="1279030501" lat="54.3398111" lon="-1.4339076">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Bull"/>
+    <tag k="phone" v="01609770673"/>
+  </node>
+  <node id="1283974165" lat="54.5060383" lon="-0.6939013">
+    <tag k="addr:housename" v="The Stiddy"/>
+    <tag k="addr:postcode" v="YO21 3RT"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stiddy"/>
+    <tag k="old_name" v="Red Lion"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="website" v="www.stiddy.net"/>
+  </node>
+  <node id="1290500626" lat="53.7944470" lon="-1.0269320">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wadkin Arms"/>
+  </node>
+  <node id="1307356779" lat="53.9968953" lon="-0.9987054">
+    <tag k="amenity" v="pub"/>
+    <tag k="ele" v="10.0000000"/>
+    <tag k="name" v="The Fox"/>
+  </node>
+  <node id="1308349177" lat="53.8504976" lon="-1.2641996">
+    <tag k="amenity" v="pub"/>
+    <tag k="ele" v="18.0000000"/>
+    <tag k="name" v="Rockingham Arms"/>
+  </node>
+  <node id="1315923237" lat="53.9587245" lon="-1.0818796">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="YO1 8SL"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Burns Hotel"/>
+    <tag k="opening_hours" v="11-11 Mon-Sat; 12-10:30 Sun"/>
+  </node>
+  <node id="1326179202" lat="53.9163648" lon="-1.2774335">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="1345549242" lat="54.5649861" lon="-1.1827489">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Thorntree"/>
+  </node>
+  <node id="1345551470" lat="54.5671025" lon="-1.2101209">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buccaneer"/>
+  </node>
+  <node id="1346169405" lat="54.5497326" lon="-1.1826391">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Little Ormesby"/>
+  </node>
+  <node id="1346169407" lat="54.5497668" lon="-1.1822153">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1346175530" lat="54.5764798" lon="-1.2116525">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Navigation Inn"/>
+  </node>
+  <node id="1346181016" lat="54.5741560" lon="-1.2275931">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ironopolis Social Club"/>
+  </node>
+  <node id="1346561916" lat="54.5671470" lon="-1.2027073">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1347266976" lat="54.5703622" lon="-1.2129325">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jovial Monk"/>
+  </node>
+  <node id="1349542006" lat="54.5615387" lon="-0.9812460">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wharton Arms"/>
+  </node>
+  <node id="1349542784" lat="54.5611281" lon="-0.9883267">
+    <tag k="addr:housename" v="The Duke William"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="TS12 2ES"/>
+    <tag k="addr:street" v="North Terrace"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Duke William"/>
+  </node>
+  <node id="1349544398" lat="54.5610957" lon="-0.9897032">
+    <tag k="addr:housename" v="The Royal George"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="TS12 2ES"/>
+    <tag k="addr:street" v="North Terrace"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal George"/>
+  </node>
+  <node id="1359720701" lat="54.5765621" lon="-1.2346860">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Lobby"/>
+    <tag k="note" v="approximate position"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1359720710" lat="54.5769194" lon="-1.2342999">
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Bar Cuda"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1359823766" lat="54.4318190" lon="-0.5335122">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Laurel Inn"/>
+  </node>
+  <node id="1361542589" lat="54.3413076" lon="-1.4377877">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Oddfellows Arms"/>
+  </node>
+  <node id="1361542599" lat="54.3416733" lon="-1.4360979">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buck Inn"/>
+  </node>
+  <node id="1361542602" lat="54.3445468" lon="-1.4382463">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Standard"/>
+  </node>
+  <node id="1365226367" lat="54.3407163" lon="-1.4327564">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Working Mens Club"/>
+  </node>
+  <node id="1367701966" lat="54.0054338" lon="-1.3009328">
+    <tag k="addr:postcode" v="YO26 8BN"/>
+    <tag k="addr:street" v="York Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse Inn"/>
+    <tag k="website" v="http://www.bayhorsegreenhammerton.co.uk/"/>
+  </node>
+  <node id="1369842826" lat="53.9954786" lon="-1.5346339">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Regency"/>
+  </node>
+  <node id="1370051370" lat="54.3051353" lon="-1.5599499">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1381655492" lat="54.3794326" lon="-2.1678900">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kearton House"/>
+  </node>
+  <node id="1383083212" lat="54.1785872" lon="-1.2739905">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Horse Breakers Arms"/>
+  </node>
+  <node id="1384514531" lat="54.2869878" lon="-1.4005654">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Swan Inn (Closed)"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1386136722" lat="54.1194168" lon="-2.5370420">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sun Dial Inn"/>
+  </node>
+  <node id="1386136735" lat="54.1183902" lon="-2.5149205">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Horse and Farrier"/>
+  </node>
+  <node id="1387198302" lat="54.2555200" lon="-1.2840432">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Carpenters Arms"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1390596727" lat="53.8695186" lon="-0.9508700">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jefferson Arms"/>
+  </node>
+  <node id="1395833836" lat="54.0887974" lon="-1.0022401">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Castle Inn"/>
+  </node>
+  <node id="1395833997" lat="54.0888455" lon="-1.0072823">
+    <tag k="amenity" v="pub"/>
+    <tag k="fixme" v="Has changed hands recently, need to check food and beer"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Highwayman"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="1399186890" lat="54.1179072" lon="-2.5099668">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="1402364968" lat="54.1711346" lon="-1.3945012">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crab &amp; Lobster"/>
+  </node>
+  <node id="1411299497" lat="54.2822860" lon="-1.4268441">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Otterington Shorthorn"/>
+  </node>
+  <node id="1415722938" lat="54.3456909" lon="-1.5656077">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Horse Inn"/>
+  </node>
+  <node id="1426852646" lat="54.3421505" lon="-1.3928552">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="1430162375" lat="54.1095291" lon="-1.4071415">
+    <tag k="addr:postcode" v="YO51 9DN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blue Bell Inn"/>
+    <tag k="website" v="http://www.bluebellkirbyhill.co.uk/"/>
+  </node>
+  <node id="1431680814" lat="53.9794862" lon="-1.5666052">
+    <tag k="addr:housename" v="The Pine Martin"/>
+    <tag k="addr:postcode" v="HG3 1UE"/>
+    <tag k="addr:street" v="Otley Road"/>
+    <tag k="alt_name" v="Pine Marten"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="int_name" v="The Pine Marten"/>
+    <tag k="name" v="The Pine Marten"/>
+    <tag k="source" v="Dropped on Map"/>
+    <tag k="website" v="http://www.thepinemarten.com/"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1452655950" lat="54.6369783" lon="-1.3508820">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stables"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1476449213" lat="54.1468462" lon="-2.0495051">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Racehorses"/>
+    <tag k="source" v="survey"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="1477885775" lat="53.8301768" lon="-1.1250539">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Castle Inn"/>
+  </node>
+  <node id="1479457579" lat="54.5620522" lon="-1.3501918">
+    <tag k="addr:housename" v="The Fairfield Pubb"/>
+    <tag k="addr:postcode" v="TS19 7AJ"/>
+    <tag k="addr:street" v="Fairfield Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fairfield"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="website" v="http://www.facebook.com/pages/The-Fairfield-Stockton-on-Tees/98707564010"/>
+  </node>
+  <node id="1485037040" lat="54.5575795" lon="-1.3240808">
+    <tag k="addr:housename" v="Queen Victoria Pub"/>
+    <tag k="addr:postcode" v="TS18 3PQ"/>
+    <tag k="addr:street" v="Yarm Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="designation" v="amenity=pub"/>
+    <tag k="name" v="Queen Victoria Pub"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1485078488" lat="54.5569991" lon="-1.2464225">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Linthorpe"/>
+  </node>
+  <node id="1485563309" lat="54.5563831" lon="-1.3625459">
+    <tag k="addr:housename" v="The Penny Black"/>
+    <tag k="addr:postcode" v="TS18 5PU"/>
+    <tag k="addr:street" v="Ellerton Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="designation" v="amenity=pub"/>
+    <tag k="name" v="The Penny Black"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="1506129827" lat="53.9553475" lon="-1.1062620">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox"/>
+  </node>
+  <node id="1509177712" lat="54.3342520" lon="-1.1184663">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sun Inn"/>
+  </node>
+  <node id="1519768975" lat="53.9584281" lon="-1.0926551">
+    <tag k="addr:postcode" v="YO24 1AB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="York Tap"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="1524993980" lat="54.5833544" lon="-0.9720431">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Victoria"/>
+  </node>
+  <node id="1531779948" lat="54.4269338" lon="-1.2714170">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dog &amp; Gun"/>
+  </node>
+  <node id="1533530924" lat="53.9550961" lon="-1.0759188">
+    <tag k="addr:postcode" v="YO1 9PY"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tramways Club"/>
+  </node>
+  <node id="1539670386" lat="54.2902261" lon="-0.4055969">
+    <tag k="amenity" v="pub"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="North Riding Brew Pub"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="website" v="http://www.northridingbrewpub.com/"/>
+  </node>
+  <node id="1558471347" lat="53.9754393" lon="-1.1620014">
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="car_park" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="source" v="survey;Bing"/>
+  </node>
+  <node id="1569467368" lat="54.0619542" lon="-2.3013729">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Craven Arms"/>
+    <tag k="note" v="originally mapped by peter_james"/>
+    <tag k="old_name" v="Station Hotel"/>
+  </node>
+  <node id="1577471928" lat="54.5698597" lon="-1.2387298">
+    <tag k="alt_name" v="Weatherspoons"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Swatters Carr"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1587130660" lat="53.7405217" lon="-1.2562213">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Plough Inn"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1588855605" lat="53.9533462" lon="-1.0755848">
+    <tag k="addr:postcode" v="YO10 4AH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sea Horse Hotel"/>
+  </node>
+  <node id="1589533099" lat="54.0862403" lon="-1.7598601">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+    <tag k="source" v="photo"/>
+  </node>
+  <node id="1603737815" lat="54.1802663" lon="-0.2807001">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="John Paul Jones"/>
+  </node>
+  <node id="1613212080" lat="53.9578088" lon="-1.0835621">
+    <tag k="addr:postcode" v="YO1 9QT"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Yates's"/>
+  </node>
+  <node id="1619311916" lat="53.9611457" lon="-1.0830439">
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="YO1 8AS"/>
+    <tag k="addr:street" v="Stonegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The House of Trembling Madness"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.tremblingmadness.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1625099156" lat="54.3932509" lon="-0.5679986">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Flask Inn"/>
+  </node>
+  <node id="1633908790" lat="54.2719838" lon="-1.4629434">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buck Inn"/>
+    <tag k="website" v="http://www.thebuckinn.co.uk"/>
+  </node>
+  <node id="1645461632" lat="54.6059741" lon="-1.0668081">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Yorkshire Coble"/>
+  </node>
+  <node id="1651887526" lat="53.9138362" lon="-1.7506958">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Horse"/>
+  </node>
+  <node id="1685752811" lat="53.9380311" lon="-1.5057089">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Star and Garter"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1685752819" lat="53.9383879" lon="-1.5053602">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shoulder of Mutton"/>
+  </node>
+  <node id="1685758185" lat="53.9925456" lon="-1.5460415">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fat Badger"/>
+  </node>
+  <node id="1686593828" lat="54.5938809" lon="-1.0695323">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Starting Gate"/>
+  </node>
+  <node id="1692450759" lat="53.9932182" lon="-1.5461848">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="HG1 2SZ"/>
+    <tag k="addr:street" v="Royal Parade"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old Bell"/>
+    <tag k="website" v="http://www.markettowntaverns.co.uk/old-bell-tavern.asp?Tavern=Old-Bell-Tavern&amp;Section=Main"/>
+  </node>
+  <node id="1700470217" lat="54.5309862" lon="-1.1846455">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brunton Arms"/>
+    <tag k="source" v="Bing; knowledge"/>
+  </node>
+  <node id="1703494963" lat="54.2048636" lon="-1.5894029">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bruce Arms"/>
+  </node>
+  <node id="1710618454" lat="54.5088438" lon="-1.3536861">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="1710618486" lat="54.5084856" lon="-1.3535842">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Tree"/>
+  </node>
+  <node id="1710662485" lat="54.5897524" lon="-1.3907668">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Smiths"/>
+  </node>
+  <node id="1710662492" lat="54.5838027" lon="-1.4012489">
+    <tag k="addr:postcode" v="TS21 1EP"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ship"/>
+    <tag k="website" v="http://www.theshipredmarshall.co.uk/"/>
+  </node>
+  <node id="1710678172" lat="54.5105408" lon="-1.3549903">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ketton Ox"/>
+  </node>
+  <node id="1717745660" lat="54.3391049" lon="-1.4337327">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coachman's Tap Bar, Golden Lion Hotel"/>
+    <tag k="wifi" v="yes"/>
+  </node>
+  <node id="1717745691" lat="54.4823918" lon="-1.5560552">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Raffles"/>
+  </node>
+  <node id="1735618476" lat="54.3228594" lon="-1.4979443">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Old Royal George"/>
+  </node>
+  <node id="1736126873" lat="54.5498450" lon="-1.1915170">
+    <tag k="addr:postcode" v="TS3 0DY"/>
+    <tag k="addr:street" v="Ormesby Road "/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="north ormesby institute"/>
+  </node>
+  <node id="1746348378" lat="54.4326802" lon="-1.2179370">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blackwell Ox"/>
+  </node>
+  <node id="1758866143" lat="54.0592354" lon="-1.4468694">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="1767523438" lat="54.2325200" lon="-1.3413733">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Tuns"/>
+  </node>
+  <node id="1767535113" lat="54.2323843" lon="-1.3420860">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Fleece"/>
+  </node>
+  <node id="1767691678" lat="54.5009155" lon="-0.9217774">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Jolly Sailors"/>
+  </node>
+  <node id="1767742088" lat="54.5317617" lon="-0.9008535">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Water Wheel"/>
+  </node>
+  <node id="1770464173" lat="54.0689405" lon="-1.7094757">
+    <tag k="addr:postcode" v="HG3 4BU"/>
+    <tag k="addr:street" v="Pately Bridge Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ye Olde Oak Inn"/>
+  </node>
+  <node id="1773454461" lat="54.0067488" lon="-1.4670291">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Cross Keys"/>
+  </node>
+  <node id="1783655522" lat="54.1496710" lon="-1.6149769">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Galphay Inn"/>
+  </node>
+  <node id="1784697363" lat="54.2408614" lon="-0.3673308">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tow Bar"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1786293170" lat="53.9210991" lon="-1.0976000">
+    <tag k="addr:postcode" v="YO23 2RB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Woodman"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1793089748" lat="54.4826266" lon="-1.5515755">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Station"/>
+  </node>
+  <node id="1804443849" lat="54.2325076" lon="-1.5924664">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Milbank Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1807313259" lat="53.9540690" lon="-1.0773561">
+    <tag k="addr:postcode" v="YO10 4AB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Masons Arms"/>
+  </node>
+  <node id="1807313262" lat="53.9545504" lon="-1.0772247">
+    <tag k="addr:postcode" v="YO1 9NX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Postern Gate"/>
+    <tag k="network" v="Wetherspoon"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="vegan" v="friendly"/>
+  </node>
+  <node id="1808885429" lat="54.2231713" lon="-0.7707318">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:postcode" v="YO18 8EA"/>
+    <tag k="addr:street" v="Malton Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Black Bull Inn"/>
+    <tag k="website" v="http://www.theblackbullinnpickering.co.uk/"/>
+  </node>
+  <node id="1818088090" lat="54.5515698" lon="-0.7997882">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fox And Hounds"/>
+  </node>
+  <node id="1822703342" lat="53.9806362" lon="-1.4760617">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Kestrel"/>
+  </node>
+  <node id="1827389945" lat="54.4643585" lon="-0.5928915">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Windmill Inn"/>
+  </node>
+  <node id="1830759643" lat="54.3230983" lon="-1.4875282">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Wellington Heifer"/>
+  </node>
+  <node id="1855160644" lat="54.2464604" lon="-0.7793683">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Rose"/>
+  </node>
+  <node id="1855160650" lat="54.2443070" lon="-0.7750794">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Horseshoe Inn"/>
+  </node>
+  <node id="1855160671" lat="54.2449574" lon="-0.7757795">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Lettered Board"/>
+  </node>
+  <node id="1864062515" lat="53.9670892" lon="-1.0553293">
+    <tag k="addr:postcode" v="YO31 1AN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Walnut Tree"/>
+    <tag k="parking" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="vegan" v="friendly"/>
+  </node>
+  <node id="1870082647" lat="53.6836894" lon="-1.1148751">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse"/>
+  </node>
+  <node id="1871543120" lat="53.7290629" lon="-0.9790251">
+    <tag k="addr:city" v="Drax"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="YO8 8NT"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Huntsman"/>
+  </node>
+  <node id="1899194591" lat="53.9179446" lon="-2.0129203">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Railway"/>
+  </node>
+  <node id="1899195303" lat="53.9184675" lon="-2.0173138">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Inn"/>
+  </node>
+  <node id="1919995208" lat="54.0951166" lon="-1.2760610">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Inn"/>
+  </node>
+  <node id="1920285546" lat="53.9987910" lon="-1.4676755">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Union"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1923812946" lat="54.2092199" lon="-0.2878938">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Murray Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Tuns"/>
+  </node>
+  <node id="1929360541" lat="54.3336267" lon="-1.5065320">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Inn"/>
+  </node>
+  <node id="1950138913" lat="53.9552627" lon="-1.1939022">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tankard Inn"/>
+  </node>
+  <node id="1978408660" lat="54.1243545" lon="-0.5231836">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Star"/>
+  </node>
+  <node id="1996459381" lat="54.2091138" lon="-0.8083317">
+    <tag k="amenity" v="pub"/>
+    <tag k="is_in" v="Flamingo Land"/>
+    <tag k="name" v="Pitchers Sports Bar"/>
+  </node>
+  <node id="2000101875" lat="54.1850872" lon="-1.5607713">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stavely Arms"/>
+  </node>
+  <node id="2010578475" lat="54.2224304" lon="-1.6561662">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bruce Arms"/>
+  </node>
+  <node id="2010591959" lat="54.3001326" lon="-0.4476181">
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Plough"/>
+  </node>
+  <node id="2026798671" lat="53.9555686" lon="-1.0915337">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Windmill"/>
+  </node>
+  <node id="2045602653" lat="54.5164220" lon="-1.6608422">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown Inn"/>
+  </node>
+  <node id="2045631198" lat="54.4284008" lon="-1.6363054">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="2046211361" lat="54.2193606" lon="-1.5760252">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Freemasons Arms"/>
+  </node>
+  <node id="2061796622" lat="54.1905086" lon="-2.0899136">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buck Inn"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="www.thebuckinnbuckden.co.uk"/>
+  </node>
+  <node id="2070231218" lat="54.1177635" lon="-2.5089302">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hoggs ’n’ Heifers"/>
+  </node>
+  <node id="2103432752" lat="54.1181543" lon="-2.5102198">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coach House"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2137963907" lat="53.9488204" lon="-1.0284714">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Glasshouse"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2146928703" lat="54.1050395" lon="-1.6212167">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Sawley Arms"/>
+  </node>
+  <node id="2147073461" lat="54.5402205" lon="-0.7761267">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Badger Hounds"/>
+  </node>
+  <node id="2147073469" lat="54.5395670" lon="-0.7752603">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brown Cow"/>
+  </node>
+  <node id="2147215992" lat="54.5621827" lon="-1.1965631">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="2173958114" lat="54.5055416" lon="-0.7623289">
+    <tag k="addr:housename" v="The White Hart Inn"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="TS13 5LU"/>
+    <tag k="addr:street" v="The Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Whte Hart Inn"/>
+  </node>
+  <node id="2190007010" lat="54.1049407" lon="-2.4099054">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="2203952220" lat="54.2040289" lon="-1.5886246">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bull Inn"/>
+  </node>
+  <node id="2208669688" lat="54.1052204" lon="-1.6216851">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sawley Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2208669707" lat="54.1649606" lon="-1.6415823">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queens Head"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2242885082" lat="54.3575643" lon="-0.4516331">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Hayburn Wyke"/>
+  </node>
+  <node id="2246059532" lat="54.3819119" lon="-1.4829263">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Swan"/>
+    <tag k="website" v="www.thewhiteswandanbywiske.co.uk"/>
+  </node>
+  <node id="2248776065" lat="54.1691574" lon="-2.0733846">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fox and Hounds"/>
+  </node>
+  <node id="2264784931" lat="54.4925859" lon="-0.6363381">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White House"/>
+  </node>
+  <node id="2264789697" lat="54.4863415" lon="-0.6143252">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Swan"/>
+  </node>
+  <node id="2264794113" lat="54.4893330" lon="-0.6148401">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Pier"/>
+  </node>
+  <node id="2264802730" lat="54.4865587" lon="-0.6109236">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Endevour"/>
+  </node>
+  <node id="2264815785" lat="54.4855553" lon="-0.6106312">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fleece"/>
+  </node>
+  <node id="2264815789" lat="54.4813796" lon="-0.6163631">
+    <tag k="addr:city" v="Whitby"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="York Terrace"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="First In Last Out"/>
+    <tag k="smoking" v="no"/>
+  </node>
+  <node id="2267174509" lat="54.3686101" lon="-0.9710097">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Feversham Arms"/>
+  </node>
+  <node id="2278333188" lat="53.9627049" lon="-1.0848833">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lamb &amp; Lion Inn"/>
+    <tag k="source" v="Local knowledge"/>
+  </node>
+  <node id="2287009951" lat="53.9941291" lon="-1.5446533">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Rift &amp; Co"/>
+  </node>
+  <node id="2308851828" lat="53.9766865" lon="-1.0968598">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Clifton Hotel"/>
+  </node>
+  <node id="2309246374" lat="54.2473013" lon="-0.3815497">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Poachers Barn"/>
+  </node>
+  <node id="2310946210" lat="53.9098036" lon="-2.0642412">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Hare And Hounds"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="2 from Theakston"/>
+    <tag k="real_fire" v="yes"/>
+  </node>
+  <node id="2316859383" lat="53.9134500" lon="-1.7481460">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queens Head"/>
+    <tag k="source" v="Local_knowledge"/>
+  </node>
+  <node id="2316860538" lat="53.9138607" lon="-1.7487790">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Red Lion"/>
+  </node>
+  <node id="2357997597" lat="53.9123035" lon="-1.1925744">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Three Hares"/>
+  </node>
+  <node id="2376799741" lat="54.2106883" lon="-0.2878408">
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="YO14 9DX"/>
+    <tag k="addr:street" v="Mitford Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Star"/>
+  </node>
+  <node id="2383822398" lat="53.9556773" lon="-1.1313015">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="YO26 5LL"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sun"/>
+    <tag k="website" v="http://www.thesuninnacomb.com/"/>
+  </node>
+  <node id="2393961830" lat="53.9817295" lon="-2.1062065">
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:city" v="Gargrave"/>
+    <tag k="addr:postcode" v="BD23 3NL"/>
+    <tag k="addr:street" v="Marton Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Masons Arms"/>
+    <tag k="phone" v="01756 749304"/>
+    <tag k="real_ale" v="4, may vary"/>
+    <tag k="real_fire" v="yes"/>
+    <tag k="website" v="www.masonsarmsgargrave.co.uk"/>
+  </node>
+  <node id="2424192655" lat="54.2218492" lon="-1.4144183">
+    <tag k="alt_name" v="Busby Stoop"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Jaipur Spice"/>
+    <tag k="note" v="Exists April 2010"/>
+    <tag k="old_name" v="Busby Stoop"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="2424214514" lat="54.2323286" lon="-1.4154261">
+    <tag k="addr:postcode" v="YO7 4RW"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Kings Arms"/>
+    <tag k="website" v="http://www.thekingsarmssandhutton.co.uk/index.php"/>
+  </node>
+  <node id="2429399916" lat="54.3977476" lon="-1.7371069">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:postcode" v="DL10 4RJ"/>
+    <tag k="addr:street" v="Holly Hill"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Holly Hill Inn"/>
+    <tag k="opening_hours" v="Mo 16:00-23:00; Tu-Su 12:00-23:00"/>
+    <tag k="operator" v="Black Sheep Brewery"/>
+    <tag k="website" v="http://www.holly-hill-inn.co.uk/"/>
+  </node>
+  <node id="2434528963" lat="53.9844363" lon="-1.5493314">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="So! Bar"/>
+  </node>
+  <node id="2434529182" lat="53.9836919" lon="-1.5517507">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Charlie's Place"/>
+  </node>
+  <node id="2434557071" lat="53.8260300" lon="-1.2098400">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fenton Flyer"/>
+    <tag k="operator" v="Admiral Taverns"/>
+  </node>
+  <node id="2442428466" lat="53.9597260" lon="-1.0808064">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="YO1 8BB"/>
+    <tag k="addr:street" v="Patrick Pool"/>
+    <tag k="alt_name" v="Pivni"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Pivní"/>
+  </node>
+  <node id="2447415296" lat="54.4901572" lon="-0.7748312">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="2479415923" lat="54.4464379" lon="-1.6518704">
+    <tag k="addr:postcode" v="DL10 6QX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shoulder of Mutton"/>
+    <tag k="phone" v="+44 1325 377 271"/>
+  </node>
+  <node id="2487762782" lat="54.4376664" lon="-1.3962611">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Shorthorn Inn"/>
+    <tag k="website" v="http://shorthorninn-appletonwiske.co.uk/"/>
+  </node>
+  <node id="2488187958" lat="54.6108269" lon="-1.2994553">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Swan Hotel"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="2492162332" lat="54.3009185" lon="-0.9527431">
+    <tag k="addr:housename" v="The Royal Oak Inn"/>
+    <tag k="addr:postcode" v="YO62 7HX"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak Inn"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.theroyaloakgillamoor.co.uk"/>
+  </node>
+  <node id="2492421061" lat="54.4156812" lon="-1.3875226">
+    <tag k="addr:postcode" v="DL6 2SG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Duke Of Wellington"/>
+    <tag k="source" v="Survey"/>
+    <tag k="website" v="http://www.thedukeofwellingtonwelbury.com/"/>
+  </node>
+  <node id="2515265224" lat="54.5159957" lon="-1.7522629">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brownlow Arms"/>
+  </node>
+  <node id="2526739347" lat="53.8645959" lon="-1.1934169">
+    <tag k="addr:postcode" v="YO23 7AG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crown Inn"/>
+  </node>
+  <node id="2546065156" lat="53.9639960" lon="-1.1209092">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ainsty"/>
+  </node>
+  <node id="2553715971" lat="53.9527216" lon="-1.1376783">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="King William"/>
+  </node>
+  <node id="2561958985" lat="54.5764021" lon="-1.2349798">
+    <tag k="addr:street" v="Corporation Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Mink Tattoo Coffee Bar"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2564253112" lat="53.9586925" lon="-1.0788484">
+    <tag k="addr:housenumber" v="11-12"/>
+    <tag k="addr:postcode" v="YO1 9TA"/>
+    <tag k="addr:street" v="Fossgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Hop"/>
+    <tag k="operator" v="Osset Brewery"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="website" v="http://www.thehopyork.co.uk/"/>
+  </node>
+  <node id="2577515421" lat="53.9552301" lon="-1.1286413">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Inn on the Green"/>
+    <tag k="operator" v="Thwaites"/>
+  </node>
+  <node id="2591603888" lat="54.4890336" lon="-0.7922253">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="2614757889" lat="53.9630248" lon="-1.1074022">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Leeman Rose"/>
+  </node>
+  <node id="2620968422" lat="53.7972485" lon="-1.2553295">
+    <tag k="addr:city" v="Sherburn in Elmet"/>
+    <tag k="addr:housenumber" v="33-35"/>
+    <tag k="addr:postcode" v="LS25 6BH"/>
+    <tag k="addr:street" v="Kirkgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Foresters Arms"/>
+  </node>
+  <node id="2682604326" lat="53.9999110" lon="-1.4196019">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse Inn"/>
+  </node>
+  <node id="2739758554" lat="54.6074021" lon="-1.2936488">
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="The Half Moon"/>
+    <tag k="operator" v="Wetherspoon"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2746939534" lat="54.3472229" lon="-1.3299785">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="2885989810" lat="54.0924066" lon="-1.4981765">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lamb and Flag"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2886670035" lat="54.1707109" lon="-1.4356032">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2965159763" lat="54.4667628" lon="-0.6739792">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="YO21 1SW"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Forge"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2969426929" lat="54.2853075" lon="-1.8047603">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="2969426930" lat="54.2855784" lon="-1.8056857">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="2969426931" lat="54.2850523" lon="-1.8058198">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Black Swan"/>
+  </node>
+  <node id="2975778717" lat="54.3602900" lon="-1.4177711">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Tree"/>
+  </node>
+  <node id="3012505555" lat="54.5853241" lon="-1.3455304">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="3015472800" lat="53.9930878" lon="-1.5376432">
+    <tag k="addr:street" v="Station Parade"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Harrogate Tap"/>
+    <tag k="opening_hours" v="Mo-We 11:00-23:00; Th-Su 10:00-24:00"/>
+    <tag k="website" v="http://www.harrogatetap.co.uk/"/>
+  </node>
+  <node id="3021058803" lat="53.9538852" lon="-1.0968450">
+    <tag k="addr:housenumber" v="66-68"/>
+    <tag k="addr:postcode" v="YO24 4AB"/>
+    <tag k="addr:street" v="Holgate Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crystal Palace"/>
+    <tag k="operator" v="Sam Smiths"/>
+  </node>
+  <node id="3027728265" lat="53.9542960" lon="-1.1000691">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:street" v="Watson Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Volunteer Arms"/>
+    <tag k="opening_hours" v="Mo-Th 17:00-23:00; Fr 17:00-00:00; Sa 12:00-00:00; Su 12:00-23:00"/>
+    <tag k="website" v="www.volunteerarmsyork.co.uk"/>
+  </node>
+  <node id="3046455945" lat="53.9938579" lon="-1.5467719">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hales Bar"/>
+  </node>
+  <node id="3124715223" lat="53.9892507" lon="-1.5406134">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="West Park"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Muckles"/>
+    <tag k="opening_hours" v="Su-We 11:00-23:00; Th 11:00-24:00; Fr-Sa 11:00-01:00"/>
+  </node>
+  <node id="3126924241" lat="53.9630737" lon="-1.0858548">
+    <tag k="addr:postcode" v="YO30 7BL"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Horse"/>
+  </node>
+  <node id="3136963396" lat="54.6002162" lon="-1.0584023">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Turners' Mill"/>
+  </node>
+  <node id="3178028401" lat="53.9615902" lon="-1.0799114">
+    <tag k="addr:postcode" v="YO1 7LF"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Habit"/>
+  </node>
+  <node id="3201510490" lat="54.2762526" lon="-0.3995914">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Highlander Hotel"/>
+    <tag k="real_ale" v="yes"/>
+    <tag k="website" v="http://www.highlanderhotelscarborough.co.uk/"/>
+  </node>
+  <node id="3215997828" lat="54.4041576" lon="-1.7383854">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fleece"/>
+  </node>
+  <node id="3245608698" lat="53.8856858" lon="-1.2586940">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Commercial Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Coach and Horses"/>
+  </node>
+  <node id="3268702293" lat="54.6172402" lon="-1.0604839">
+    <tag k="addr:city" v="Redcar"/>
+    <tag k="addr:housenumber" v="138 - 142"/>
+    <tag k="addr:postcode" v="TS10 3DH"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="alt_name" v="Wetherspoons"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Plimsoll Line"/>
+    <tag k="website" v="http://www.jdwetherspoon.co.uk/home/pubs/the-plimsoll-line"/>
+    <tag k="wifi" v="free"/>
+  </node>
+  <node id="3274035966" lat="53.9245214" lon="-1.1836632">
+    <tag k="addr:postcode" v="YO23 3PT"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Rose &amp; Crown"/>
+    <tag k="operator" v="Sam Smith"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="3285829068" lat="54.4162236" lon="-1.5602931">
+    <tag k="addr:city" v="Northallerton"/>
+    <tag k="addr:housename" v="The Arden Arms"/>
+    <tag k="addr:postcode" v="DL7 0JB"/>
+    <tag k="addr:street" v="Atley Hill, South Cowton"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Arden Arms"/>
+  </node>
+  <node id="3342769825" lat="53.9910037" lon="-0.9133011">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse"/>
+  </node>
+  <node id="3406284051" lat="54.0111832" lon="-1.6552968">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Queens Head Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3407580237" lat="54.0278425" lon="-1.5042349">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Guy Fawkes Arms"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3407613174" lat="54.4739969" lon="-1.6469821">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Half Moon"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3407613175" lat="54.4748737" lon="-1.6417355">
+    <tag k="amenity" v="pub"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3419960520" lat="54.3081040" lon="-1.3910118">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crosby"/>
+  </node>
+  <node id="3426177370" lat="54.6173881" lon="-1.0763763">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Lobster"/>
+  </node>
+  <node id="3426897737" lat="54.5276106" lon="-1.2911223">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Anson Farm"/>
+  </node>
+  <node id="3460383633" lat="54.3112518" lon="-1.6655157">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Tree"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3465461914" lat="54.4790939" lon="-0.6500605">
+    <tag k="addr:city" v="Whitby"/>
+    <tag k="addr:postcode" v="YO21 1TL"/>
+    <tag k="addr:street" v="Guisborough"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Stables at Cross Butts"/>
+    <tag k="website" v="http://www.cross-butts.co.uk/"/>
+  </node>
+  <node id="3492938790" lat="54.3887986" lon="-1.9432660">
+    <tag k="amenity" v="pub"/>
+    <tag k="dog" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Black Bull"/>
+    <tag k="source" v="visual survey;bing"/>
+  </node>
+  <node id="3492938791" lat="54.3890301" lon="-1.9431836">
+    <tag k="amenity" v="pub"/>
+    <tag k="dog" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Kings Arms"/>
+    <tag k="source" v="visual survey;bing"/>
+  </node>
+  <node id="3505845481" lat="53.9644434" lon="-1.1341729">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Green Tree"/>
+  </node>
+  <node id="3507680750" lat="53.9945159" lon="-1.5236721">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Empress"/>
+  </node>
+  <node id="3508133938" lat="53.9538974" lon="-1.1290344">
+    <tag k="addr:postcode" v="YO24 3BZ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Marcia Grey"/>
+  </node>
+  <node id="3543642246" lat="53.8729583" lon="-1.1605679">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Roebuck Inn"/>
+  </node>
+  <node id="3552753865" lat="54.0832995" lon="-1.1357449">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="New Inn"/>
+  </node>
+  <node id="3552754311" lat="54.0817057" lon="-1.1367614">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mended Drum"/>
+    <tag k="old_name" v="Star Inn"/>
+  </node>
+  <node id="3552791411" lat="54.0718627" lon="-1.2178095">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Horse"/>
+  </node>
+  <node id="3552892702" lat="54.0211005" lon="-1.1578702">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dawnay Arms"/>
+  </node>
+  <node id="3556427833" lat="53.9575832" lon="-1.0442137">
+    <tag k="addr:postcode" v="YO10 3AY"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Magnet"/>
+    <tag k="operator" v="John Smiths"/>
+  </node>
+  <node id="3556756733" lat="54.0514869" lon="-1.3193778">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crown Inn"/>
+  </node>
+  <node id="3574866432" lat="54.5536444" lon="-0.8840230">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Horse"/>
+  </node>
+  <node id="3596195611" lat="53.9651628" lon="-0.9791660">
+    <tag k="addr:postcode" v="YO19 5NG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cross Keys"/>
+  </node>
+  <node id="3620732692" lat="54.6031896" lon="-1.0416539">
+    <tag k="addr:city" v="Redcar"/>
+    <tag k="addr:housename" v="MacKinlay park"/>
+    <tag k="addr:postcode" v="TS10 3RW"/>
+    <tag k="addr:street" v="Green Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Redcar Rugby Union Club"/>
+  </node>
+  <node id="3622684418" lat="54.2275757" lon="-1.3707335">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Old Red House"/>
+  </node>
+  <node id="3634828802" lat="54.5651669" lon="-1.1569681">
+    <tag k="addr:city" v="Teesville, Middlesbrough"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="TS6 9BB"/>
+    <tag k="addr:street" v="Fabian Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Eston Hotel"/>
+  </node>
+  <node id="3647368315" lat="54.3792443" lon="-2.0764738">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Kings Head"/>
+  </node>
+  <node id="3648122852" lat="54.6180977" lon="-1.0684812">
+    <tag k="addr:city" v="Redcar"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="TS10 3EA"/>
+    <tag k="addr:street" v="West Dyke Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal Standard"/>
+  </node>
+  <node id="3650230957" lat="54.2349106" lon="-1.3407772">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lord Nelson"/>
+  </node>
+  <node id="3655728811" lat="53.9562580" lon="-2.0876340">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bull"/>
+    <tag k="website" v="http://www.thebullatbroughton.com"/>
+  </node>
+  <node id="3655816250" lat="54.6186960" lon="-1.0712300">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ogradys"/>
+  </node>
+  <node id="3683081595" lat="54.5646053" lon="-1.3116049">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="3683636528" lat="53.9605322" lon="-2.0146519">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="BD23 2JB"/>
+    <tag k="addr:street" v="Newmarket Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Rose Social Club"/>
+    <tag k="phone" v="01756 793706"/>
+  </node>
+  <node id="3684088521" lat="53.9591406" lon="-2.0177408">
+    <tag k="addr:city" v="Skipton"/>
+    <tag k="addr:postcode" v="BD23 2LU"/>
+    <tag k="addr:street" v="Keighley Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Skipton Working Men's Club"/>
+    <tag k="phone" v="01756 793424"/>
+  </node>
+  <node id="3691657526" lat="54.3379925" lon="-1.4249396">
+    <tag k="addr:city" v="Northallerton"/>
+    <tag k="addr:postcode" v="DL6 1EZ"/>
+    <tag k="addr:street" v="Valley Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Jolly Minister"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="3702172615" lat="53.9598996" lon="-1.0799897">
+    <tag k="addr:postcode" v="YO1 8BH"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Duke of York"/>
+  </node>
+  <node id="3708907933" lat="54.2232236" lon="-1.7080586">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="3726097763" lat="54.2710744" lon="-0.4020757">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="South Cliff Recreation Club"/>
+  </node>
+  <node id="3727404916" lat="54.2728886" lon="-0.4025741">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ramshill"/>
+  </node>
+  <node id="3727845255" lat="54.2063184" lon="-0.2866485">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:postcode" v="YO14 9JH"/>
+    <tag k="addr:street" v="The Crescent"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bonhommes Bar"/>
+  </node>
+  <node id="3727845307" lat="54.2083865" lon="-0.2880831">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Belle Vue Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Conservative Club"/>
+  </node>
+  <node id="3727856112" lat="54.2082794" lon="-0.2866018">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Belle Vue Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Belle Vue"/>
+  </node>
+  <node id="3727882111" lat="54.2096716" lon="-0.2867452">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Hope Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Imperial"/>
+  </node>
+  <node id="3727894258" lat="54.2101268" lon="-0.2884356">
+    <tag k="addr:city" v="Filey"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Buccaneer"/>
+  </node>
+  <node id="3730419537" lat="54.3369532" lon="-1.4335629">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Nags Head"/>
+  </node>
+  <node id="3730425817" lat="54.3408440" lon="-1.4352650">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The County Arms"/>
+  </node>
+  <node id="3735694212" lat="53.9559639" lon="-1.0906275">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="YO1 6LB"/>
+    <tag k="addr:street" v="Micklegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Gibson's"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-00:00/01:00; Fr,Sa 12:00- 01:00"/>
+  </node>
+  <node id="3740621743" lat="54.3815475" lon="-2.0213907">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Punch Bowl"/>
+  </node>
+  <node id="3768671298" lat="54.1391247" lon="-1.5244765">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="HG4 1EN"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Horse"/>
+  </node>
+  <node id="3775071261" lat="54.3768254" lon="-1.6306582">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Angel"/>
+  </node>
+  <node id="3777058077" lat="54.5746746" lon="-1.2160394">
+    <tag k="addr:city" v="Middlesbrough"/>
+    <tag k="addr:postcode" v="TS3 6AT"/>
+    <tag k="addr:street" v="Heath Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Six Medals"/>
+  </node>
+  <node id="3801704671" lat="54.0924983" lon="-1.3805723">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ship Inn"/>
+  </node>
+  <node id="3828878063" lat="53.7006931" lon="-0.9686885">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Royal Oak"/>
+  </node>
+  <node id="3831542359" lat="54.3568430" lon="-1.6704154">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse Inn"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3835592663" lat="53.8960902" lon="-2.0121858">
+    <tag k="addr:city" v="Sutton-in-Craven"/>
+    <tag k="addr:postcode" v="BD20 8DS"/>
+    <tag k="addr:street" v="Colne Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Dog and Gun Inn"/>
+    <tag k="opening_hours" v="11:30 - 23:00"/>
+  </node>
+  <node id="3861694055" lat="54.3045699" lon="-1.9887810">
+    <tag k="amenity" v="pub"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="The Wheatsheaf"/>
+  </node>
+  <node id="3869461144" lat="54.2693684" lon="-2.0045705">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Street Head Inn"/>
+  </node>
+  <node id="3871057167" lat="54.5728702" lon="-1.1607195">
+    <tag k="addr:city" v="Middlesbrough"/>
+    <tag k="addr:postcode" v="TS6 6TD"/>
+    <tag k="addr:street" v="Trunk Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sandstone Nab"/>
+  </node>
+  <node id="3874923589" lat="53.9581787" lon="-1.0802536">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="YO1 9NU"/>
+    <tag k="addr:street" v="Piccadilly"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Pavement Vaults"/>
+    <tag k="operator" v="Pivovar"/>
+    <tag k="website" v="http://www.pavementvaults.co.uk"/>
+  </node>
+  <node id="3889530299" lat="53.8757666" lon="-1.0418652">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Bull"/>
+  </node>
+  <node id="3889546784" lat="53.8798541" lon="-1.0459913">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Fat Abbot"/>
+  </node>
+  <node id="3889774166" lat="54.2881853" lon="-1.5913298">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Bear"/>
+  </node>
+  <node id="3889808817" lat="54.2889760" lon="-1.5922337">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="3902437919" lat="53.9678643" lon="-1.4803807">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Harewood Arms"/>
+  </node>
+  <node id="3902437920" lat="53.9684702" lon="-1.4822797">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Radcliffe Arms"/>
+  </node>
+  <node id="3903193683" lat="53.9536136" lon="-1.4479354">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Castle"/>
+  </node>
+  <node id="3903193697" lat="53.9508357" lon="-1.4434374">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Railway Inn"/>
+  </node>
+  <node id="3907310009" lat="53.9977029" lon="-1.3206497">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Victoria"/>
+  </node>
+  <node id="3907331928" lat="54.0127241" lon="-1.3199320">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Anchor Inn"/>
+  </node>
+  <node id="3908680306" lat="54.0385749" lon="-1.3264445">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Green Tree"/>
+  </node>
+  <node id="3908717318" lat="54.0772587" lon="-1.3291401">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Th Angler Inn"/>
+  </node>
+  <node id="3908832630" lat="53.8593821" lon="-1.0974684">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cross Keys Inn"/>
+  </node>
+  <node id="3932108396" lat="53.8879959" lon="-1.2545457">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="York Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Leeds Arms"/>
+  </node>
+  <node id="3932108426" lat="53.8873500" lon="-1.2576018">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Wighill Lane"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Royal Oak"/>
+  </node>
+  <node id="3932195777" lat="53.7707123" lon="-1.1647991">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Red Lion"/>
+  </node>
+  <node id="3932237758" lat="53.8839755" lon="-1.2635312">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Falcon"/>
+  </node>
+  <node id="3933180817" lat="54.0750307" lon="-1.1047648">
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Rose &amp; Crown"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="A couple of beers from local beweries"/>
+  </node>
+  <node id="3937019087" lat="54.2503187" lon="-0.4809772">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Denison Arms"/>
+  </node>
+  <node id="3939241126" lat="53.8847254" lon="-1.2642242">
+    <tag k="addr:city" v="Tadcaster"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tadcaster Social Club"/>
+  </node>
+  <node id="3944924382" lat="54.2269014" lon="-0.5526387">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cayley Arms"/>
+  </node>
+  <node id="3949560855" lat="54.4027069" lon="-1.7378163">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="3949587607" lat="54.4027490" lon="-1.7373415">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Town Hall Inn"/>
+  </node>
+  <node id="3952738643" lat="54.4633199" lon="-0.9405673">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Downe Arms"/>
+  </node>
+  <node id="3954296045" lat="54.3923067" lon="-1.6655494">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+  </node>
+  <node id="3964436677" lat="54.0697272" lon="-1.4990650">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Hare &amp; Hounds"/>
+  </node>
+  <node id="3996566291" lat="54.2971755" lon="-1.5477420">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Willow Tree"/>
+  </node>
+  <node id="3997803326" lat="54.2344527" lon="-0.3810135">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blacksmiths Arms"/>
+  </node>
+  <node id="3997803343" lat="54.2348635" lon="-0.3825184">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Star"/>
+  </node>
+  <node id="4002252789" lat="54.3051950" lon="-2.0663532">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Victoria Arms"/>
+  </node>
+  <node id="4004636371" lat="54.4373941" lon="-1.3998279">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lord Nelson Inn"/>
+  </node>
+  <node id="4004698978" lat="54.4297462" lon="-1.5616890">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blacksmiths Arms"/>
+  </node>
+  <node id="4006529578" lat="54.3029588" lon="-1.8600367">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Three Horseshoes Inn"/>
+  </node>
+  <node id="4009746382" lat="54.4233278" lon="-1.5265419">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Beeswing Inn"/>
+  </node>
+  <node id="4023700260" lat="54.4063560" lon="-1.7338686">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:street" v="Frenchgate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ship Inn"/>
+  </node>
+  <node id="4023864570" lat="54.4038631" lon="-1.7397895">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:street" v="Newbiggin"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Unicorn"/>
+  </node>
+  <node id="4023878201" lat="54.4033309" lon="-1.7365404">
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Castle Tavern"/>
+  </node>
+  <node id="4032002323" lat="54.5294623" lon="-1.3483411">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Sportsman"/>
+  </node>
+  <node id="4046106228" lat="54.5552665" lon="-1.3041236">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Aviator Social Club"/>
+  </node>
+  <node id="4054122866" lat="54.5462572" lon="-1.2406510">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="4068360317" lat="53.7833381" lon="-1.0615255">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Malt Shovel"/>
+  </node>
+  <node id="4174999082" lat="54.2696895" lon="-0.9309049">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Swan"/>
+  </node>
+  <node id="4174999086" lat="54.2695970" lon="-0.9316503">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Swan"/>
+  </node>
+  <node id="4175001903" lat="54.2697474" lon="-0.9318434">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="George &amp; Dragon"/>
+  </node>
+  <node id="4175020482" lat="54.0940525" lon="-1.3943009">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Malt Shovel"/>
+  </node>
+  <node id="4175044757" lat="53.8001138" lon="-1.0410863">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse"/>
+  </node>
+  <node id="4175067250" lat="54.1348724" lon="-0.7995684">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The New Malton"/>
+  </node>
+  <node id="4175097609" lat="54.2319768" lon="-1.3438351">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Lion"/>
+  </node>
+  <node id="4175138088" lat="54.2222581" lon="-1.6566443">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Bay Horse"/>
+  </node>
+  <node id="4183863773" lat="54.3913677" lon="-1.6522106">
+    <tag k="addr:city" v="Brompton on Swale"/>
+    <tag k="addr:postcode" v="DL10 7HZ"/>
+    <tag k="addr:street" v="Gatherley Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Farmers Arms"/>
+  </node>
+  <node id="4206136590" lat="54.1355228" lon="-1.5250881">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lamb &amp; Flag"/>
+  </node>
+  <node id="4212949686" lat="54.1794772" lon="-1.3879757">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Swan"/>
+  </node>
+  <node id="4213067006" lat="54.2329401" lon="-1.3431887">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Darrowby Inn"/>
+  </node>
+  <node id="4213079189" lat="54.2235031" lon="-1.3386075">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crown &amp; Anchor"/>
+  </node>
+  <node id="4213723701" lat="54.2229342" lon="-1.3957874">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dog &amp; Gun"/>
+  </node>
+  <node id="4213737597" lat="54.1792530" lon="-1.3235740">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Moor &amp; Pheasant"/>
+  </node>
+  <node id="4213737607" lat="54.1802779" lon="-1.3402033">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ye Jolly Farmers Inn"/>
+  </node>
+  <node id="4213921238" lat="54.1515943" lon="-1.4160793">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Crown Inn"/>
+  </node>
+  <node id="4225976157" lat="54.1091337" lon="-1.4491005">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Black Lion"/>
+  </node>
+  <node id="4238016355" lat="54.2053528" lon="-0.8074740">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Ashfield Country Manor Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4238116775" lat="54.2380977" lon="-0.4436947">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Copper Horse"/>
+  </node>
+  <node id="4238116788" lat="54.2370600" lon="-0.4435365">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Londesborough Arms"/>
+  </node>
+  <node id="4238118004" lat="54.2391182" lon="-0.4434935">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Mayfield"/>
+  </node>
+  <node id="4238430909" lat="54.2765281" lon="-0.4148708">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Tap &amp; Spile"/>
+  </node>
+  <node id="4238430910" lat="54.2767959" lon="-0.4157747">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="New Tavern"/>
+  </node>
+  <node id="4238430911" lat="54.2772469" lon="-0.4129799">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Commercial"/>
+  </node>
+  <node id="4268225754" lat="54.5737006" lon="-1.2358784">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="4268480436" lat="53.9602053" lon="-1.0808328">
+    <tag k="addr:postcode" v="YO1 8BG"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Golden Lion"/>
+  </node>
+  <node id="4269707290" lat="54.0061304" lon="-1.4666430">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="George &amp; Dragon Inn"/>
+  </node>
+  <node id="4269707293" lat="54.0059484" lon="-1.4669273">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wellington Inn"/>
+  </node>
+  <node id="4301418043" lat="53.7695828" lon="-0.9785178">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Fox &amp; Pheasant"/>
+  </node>
+  <node id="4313578731" lat="54.3975393" lon="-1.7775652">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="George and Dragon"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4314117446" lat="54.3756983" lon="-1.7073754">
+    <tag k="amenity" v="pub"/>
+  </node>
+  <node id="4321896660" lat="54.0778853" lon="-1.4069269">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The White Swan"/>
+  </node>
+  <node id="4326614715" lat="54.1274105" lon="-1.1419114">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Durham Ox"/>
+  </node>
+  <node id="4350092169" lat="54.2333686" lon="-1.3372591">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Frankland Arms"/>
+  </node>
+  <node id="4350306252" lat="54.4838424" lon="-0.6095025">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Middle Earth Tavern"/>
+  </node>
+  <node id="4350373516" lat="54.3268356" lon="-0.8478733">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Blacksmiths"/>
+  </node>
+  <node id="4357552821" lat="54.2477491" lon="-0.9745489">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Plough Inn"/>
+  </node>
+  <node id="4388677613" lat="54.1776848" lon="-0.8388902">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Grapes Inn"/>
+  </node>
+  <node id="4436386194" lat="54.2461243" lon="-1.0607643">
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Feathers Hotel"/>
+    <tag k="name:en" v="The Feathers Hotel"/>
+  </node>
+  <node id="4446546083" lat="54.0078117" lon="-1.4677767">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Castle Vaults"/>
+  </node>
+  <node id="4446546087" lat="54.0074413" lon="-1.4670049">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Market Tavern"/>
+  </node>
+  <node id="4446601760" lat="54.0076327" lon="-1.4665896">
+    <tag k="accomodation" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Old Royal Oak"/>
+  </node>
+  <node id="4446601768" lat="54.0078949" lon="-1.4661093">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="H Bar"/>
+  </node>
+  <node id="4460277501" lat="53.9576336" lon="-1.0764311">
+    <tag k="addr:postcode" v="YO1 9TT"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="name" v="Brew York"/>
+  </node>
+  <node id="4473638081" lat="53.9337670" lon="-1.0707864">
+    <tag k="addr:postcode" v="YO10 4PN"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Bay Horse"/>
+  </node>
+  <node id="4473638084" lat="53.9350521" lon="-1.0717949">
+    <tag k="addr:postcode" v="YO10 4PX"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Plough Inn"/>
+  </node>
+  <node id="4473638085" lat="53.9367794" lon="-1.0725191">
+    <tag k="addr:postcode" v="YO10 4PJ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Saddle Inn"/>
+  </node>
+  <node id="4481632693" lat="54.2968685" lon="-1.3435078">
+    <tag k="addr:postcode" v="YO7 4QP"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Wheatsheaf"/>
+  </node>
+  <node id="4487873794" lat="54.2860163" lon="-1.3362315">
+    <tag k="addr:postcode" v="YO7 4AZ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Dog &amp; Gun"/>
+  </node>
+  <node id="4488746003" lat="53.8264238" lon="-0.9633604">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Kings Arms"/>
+  </node>
+  <node id="4501071115" lat="53.9019429" lon="-1.1038178">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Ship Inn"/>
+  </node>
+  <node id="4540113192" lat="54.1346819" lon="-0.7970612">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brass Castle Brewery Taphouse"/>
+    <tag k="vegan" v="yes"/>
+    <tag k="vegetarian" v="yes"/>
+  </node>
+  <node id="4541673134" lat="54.4383121" lon="-0.7956722">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Arncliffe Arms"/>
+  </node>
+  <node id="4542192224" lat="54.2012922" lon="-0.4324472">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Spital Inn"/>
+  </node>
+  <node id="4542196592" lat="54.2020675" lon="-0.4047083">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Foxhound Inn"/>
+  </node>
+  <node id="4543171211" lat="54.3012024" lon="-0.9177379">
+    <tag k="addr:postcode" v="YO62 6UA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Crown"/>
+  </node>
+  <node id="4567827647" lat="54.1522624" lon="-0.8745721">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cresswell Arms"/>
+  </node>
+  <node id="4570518355" lat="53.9576651" lon="-1.0829281">
+    <tag k="addr:postcode" v="YO1 9QU"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="O'Neils"/>
+  </node>
+  <node id="4637974275" lat="54.2999324" lon="-0.4483689">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="The Nags Head"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4642498897" lat="53.9564099" lon="-1.0903855">
+    <tag k="addr:city" v="York"/>
+    <tag k="addr:housenumber" v="130-134"/>
+    <tag k="addr:postcode" v="YO1 6JX"/>
+    <tag k="addr:street" v="Micklegate"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="email" v="yorkbar@brewdog.com"/>
+    <tag k="name" v="BrewDog"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-00:00"/>
+    <tag k="website" v="https://www.brewdog.com/bars/uk/york"/>
+  </node>
+  <node id="4692985065" lat="54.3311755" lon="-1.8246955">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Cross Keys"/>
+  </node>
+
+</osm>
